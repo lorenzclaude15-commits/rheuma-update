@@ -1,0 +1,91 @@
+Rheuma-Update. Themenfolge, Stand viertes Quartal 2026: Riesenzellarteriitis und Polymyalgia rheumatica.
+
+Guten Morgen und willkommen zum Rheuma-Update. Heute geht es um zwei Erkrankungen, die in der Praxis eng zusammengehören: die Riesenzellarteriitis und die Polymyalgia rheumatica.
+
+Drei Dinge vorweg, die Sie sich heute merken sollten.
+
+Erstens: Es gibt seit diesem Sommer gemeinsame EULAR-Empfehlungen 2025 für Polymyalgia rheumatica und Großgefäßvaskulitiden. Sie fassen erstmals beide Krankheitsbilder in einem Dokument zusammen und stärken die Steroid-sparende Therapie.
+
+Zweitens: Upadacitinib ist seit April 2025 in der EU für die Riesenzellarteriitis zugelassen. Damit gibt es neben Tocilizumab eine zweite zugelassene Steroid-sparende Option, und zwar oral. Die Zwei-Jahres-Daten sprechen dafür, die Therapie bei Ansprechen nicht zu früh abzusetzen.
+
+Drittens: Bei der Polymyalgia rheumatica ist Sarilumab zugelassen, und die neue deutsche S2e-Leitlinie von 2025 hat es aufgenommen. Die IL-17-Blockade mit Secukinumab ist dagegen in Phase III bei der Riesenzellarteriitis gescheitert.
+
+Schauen wir uns das der Reihe nach an.
+
+Leitlinienstand.
+
+Beginnen wir mit den Leitlinien, denn hier hat sich am meisten bewegt.
+
+Die neuen EULAR-Empfehlungen 2025 zum Management von Polymyalgia rheumatica und primären Großgefäßvaskulitiden wurden beim EULAR-Kongress im Juni 2026 in London vorgestellt und im Juli 2026 in den Annals of the Rheumatic Diseases publiziert. Erstautor ist Chetan Mukhtyar, Letztautor Bernhard Hellmich. Sie ersetzen die PMR-Empfehlungen von 2015 und die Empfehlungen zu Riesenzellarteriitis und Takayasu von 2018. Das Ergebnis: vier übergeordnete Prinzipien, zwölf Empfehlungen und zwei Qualitätsindikatoren, alle mit sehr hoher Zustimmung in der Taskforce.
+
+Was ist praktisch wichtig?
+
+Zur Überweisung: Bei Verdacht auf Riesenzellarteriitis soll die Vorstellung beim Spezialisten innerhalb von 24 Stunden erfolgen. Neu ist, dass auch die Polymyalgia rheumatica ausdrücklich zur dringlichen fachärztlichen Abklärung empfohlen wird. Hintergrund sind Daten aus der Primärversorgung, die auf Über- und Fehldiagnosen sowie auf übersehene Gefäßbeteiligung hinweisen.
+
+Zum Therapiebeginn: Bei starkem Verdacht auf Riesenzellarteriitis sollen Glukokortikoide sofort beginnen, ohne auf Bestätigung zu warten. Bei Polymyalgia rheumatica und Takayasu darf man dagegen in den meisten Fällen die Diagnosesicherung abwarten. Und: Ein Steroid-Probetherapie-Ansprechen ist kein Diagnosekriterium. Auch Klassifikationskriterien sollen ausdrücklich nicht zur Diagnosestellung verwendet werden. Die Diagnose soll klinisch gestellt und durch Bildgebung oder Histologie bestätigt werden.
+
+Zu den Dosen: Bei der Polymyalgia rheumatica Start mit 15 bis 25 Milligramm Prednisolon-Äquivalent pro Tag, Reduktion auf 10 Milligramm innerhalb von etwa zwei Monaten, Ziel ist das Absetzen innerhalb eines Jahres. Bei Riesenzellarteriitis und Takayasu Start mit 40 bis 60 Milligramm, Reduktion auf 15 bis 20 Milligramm bis Monat zwei bis drei, Ziel ist das Absetzen nach 12 bis 18 Monaten.
+
+Zur Steroid-sparenden Therapie: IL-6-Rezeptor-Inhibitoren können bei ausgewählten Patienten mit Polymyalgia rheumatica und mit Riesenzellarteriitis eingesetzt werden. Bei der Polymyalgia kann Tocilizumab laut Taskforce bereits früh, also bei Neuerkrankung, erwogen werden. Bei der Riesenzellarteriitis ist Upadacitinib als Option neu aufgenommen. Methotrexat bleibt die Alternative. Bei Takayasu sollen alle Patienten von Beginn an eine Steroid-sparende Therapie erhalten.
+
+Zur Bildgebung gelten weiter die EULAR-Bildgebungsempfehlungen von 2023: Ultraschall ist die Erstlinien-Bildgebung bei jedem Verdacht auf Riesenzellarteriitis, und zwar inklusive der Axillararterien. PET oder MRT sind Alternativen. Routinemäßige Verlaufsbildgebung wird nicht empfohlen, kann aber bei Rezidivverdacht helfen, vor allem wenn die Entzündungswerte unter IL-6-Blockade nicht aussagekräftig sind.
+
+Und in Deutschland? Für die Polymyalgia rheumatica gibt es seit April 2025 die aktualisierte S2e-Leitlinie der DGRh im AWMF-Register. Sie empfiehlt ebenfalls 15 bis 25 Milligramm Prednisolon morgens als Einzeldosis. Startdosen unter 7,5 und über 30 Milligramm sind nicht vorgesehen. Die wichtigste Neuerung gegenüber 2018: Sarilumab wird zusätzlich zu Glukokortikoiden bei rezidivierendem Verlauf empfohlen und kann bei ausgewählten Neuerkrankten mit hohem Risiko für Steroid-Nebenwirkungen erwogen werden. Nach stattgehabter Divertikulitis soll es nicht eingesetzt werden. Methotrexat bleibt Alternative mit schwächerer Studienlage. Rituximab ist auf Basis einer kleinen randomisierten Studie mit 47 Patienten aufgenommen. NSAR sind keine Primärtherapie, JAK-Inhibitoren für die PMR sind noch nicht berücksichtigt.
+
+Für die Riesenzellarteriitis gilt in Deutschland weiterhin die S2k-Leitlinie Großgefäßvaskulitiden von 2020. Kernpunkte: 40 bis 60 Milligramm Prednisolon, bei Visusstörung oder Amaurosis fugax Methylprednisolon-Pulse mit 500 bis 1.000 Milligramm intravenös über drei bis fünf Tage. Reduktion auf 10 bis 15 Milligramm nach drei Monaten, unter 5 Milligramm nach einem Jahr. Tocilizumab oder Methotrexat bei refraktärem oder rezidivierendem Verlauf oder hohem Steroidrisiko. Diese Leitlinie ist älter als die Zulassung von Upadacitinib. Für aktuelle Therapieentscheidungen sind deshalb die EULAR-Empfehlungen 2025 die aktuellere Referenz. Die ACR-Leitlinie von 2021 favorisiert übrigens Tocilizumab bereits bei Neudiagnose stärker als die europäischen Empfehlungen.
+
+Neue Studien und Zulassungen.
+
+Kommen wir zu den Studien. Ich beginne mit der Riesenzellarteriitis.
+
+Upadacitinib, SELECT-GCA. Diese Phase-III-Studie wurde 2025 im New England Journal of Medicine publiziert. 428 Patienten über 50 Jahre mit neu diagnostizierter oder rezidivierender Riesenzellarteriitis. Verglichen wurde Upadacitinib 15 Milligramm einmal täglich plus 26-wöchiges Steroid-Ausschleichen gegen Placebo plus 52-wöchiges Ausschleichen. Primärer Endpunkt: anhaltende Remission in Woche 52. Ergebnis: 46,4 Prozent unter Upadacitinib gegen 29,0 Prozent unter Placebo, p gleich 0,002. Der zweite Studienarm mit 7,5 Milligramm verfehlte die statistische Signifikanz, zugelassen sind deshalb 15 Milligramm.
+
+Zur Sicherheit im ersten Jahr: Schwere Infektionen 5,7 gegen 10,7 Prozent, also unter Upadacitinib sogar seltener, vermutlich wegen der geringeren Steroidlast. Malignome 1,9 gegen 1,8 Prozent, venöse Thromboembolien 3,3 gegen 3,6 Prozent, keine schweren kardiovaskulären Ereignisse unter Upadacitinib gegenüber zwei unter Placebo.
+
+Die Europäische Kommission hat Upadacitinib im April 2025 für die Riesenzellarteriitis bei Erwachsenen zugelassen. Wichtig für die Praxis: Für alle JAK-Inhibitoren gelten seit 2023 die Warnhinweise der EMA. Bei Patienten ab 65 Jahren, mit kardiovaskulären Risikofaktoren, Malignomrisiko oder Thromboserisiko sollen JAK-Inhibitoren nur eingesetzt werden, wenn keine geeignete Alternative besteht. Das Durchschnittsalter in SELECT-GCA lag bei 71 Jahren. Praktisch heißt das: Bei den meisten Riesenzellarteriitis-Patienten bleibt Tocilizumab die erste Wahl, und Upadacitinib ist eine dokumentationspflichtige Alternative, etwa bei Spritzenablehnung, Unverträglichkeit von Tocilizumab oder Divertikulitis-Anamnese.
+
+Neu sind die Zwei-Jahres-Daten, vorgestellt als Plenarbeitrag auf der ACR Convergence im Oktober 2025. Patienten, die nach Woche 52 in anhaltender Remission waren, wurden erneut randomisiert: weiter Upadacitinib oder Wechsel auf Placebo. Von Woche 52 bis 104 blieben 68,6 Prozent unter fortgesetztem Upadacitinib in Remission, gegenüber 28,6 Prozent nach Absetzen. Das Schubrisiko sank um etwa 90 Prozent, die kumulative Steroiddosis war rund ein Gramm niedriger. Mehr Herpes zoster und CK-Erhöhungen unter Upadacitinib, keine neuen Sicherheitssignale. Achtung: Das ist bisher ein Kongressabstract, also noch nicht vollständig peer-reviewt. Die Botschaft passt aber zu den Tocilizumab-Erfahrungen: Wer früh absetzt, riskiert Rezidive.
+
+Zum Vergleich die Referenz: In GiACTA, NEJM 2017, erreichten unter wöchentlichem Tocilizumab plus 26-wöchigem Ausschleichen 56 Prozent eine anhaltende Remission, unter Placebo mit 52-wöchigem Ausschleichen 18 Prozent. Direkte Vergleichsstudien zwischen Tocilizumab und Upadacitinib gibt es nicht. Studienübergreifende Vergleiche sind wegen unterschiedlicher Endpunktdefinitionen nicht zulässig.
+
+Jetzt die negative Studie: Secukinumab, GCAptAIN. Nach einer positiven Phase-II-Studie wurde die IL-17A-Blockade in Phase III geprüft. 353 Patienten in der Auswertung. Anhaltende Remission in Woche 52: 25,6 Prozent unter 300 Milligramm Secukinumab gegen 16,9 Prozent unter Placebo, Unterschied 8,7 Prozentpunkte, p gleich 0,09, also nicht signifikant. Die 150-Milligramm-Dosis lag mit 19,4 Prozent praktisch auf Placeboniveau. Numerisch weniger schwere unerwünschte Ereignisse, aber kein Wirksamkeitsnachweis. Die Vollpublikation erschien im Juli 2026 in NEJM Evidence. Für die Praxis: Secukinumab ist keine Option bei Riesenzellarteriitis außerhalb von Studien.
+
+Nun zur Polymyalgia rheumatica. Die Schlüsselstudie für Sarilumab ist SAPHYR, publiziert im New England Journal of Medicine 2023. 118 Patienten mit rezidivierender Polymyalgia unter Steroid-Ausschleichen. Sarilumab 200 Milligramm subkutan alle zwei Wochen plus 14-wöchiges Ausschleichen gegen Placebo plus 52-wöchiges Ausschleichen. Anhaltende Remission in Woche 52: 28 gegen 10 Prozent. Die mediane kumulative Prednisondosis sank um mehr als die Hälfte: 777 gegen 2.044 Milligramm. Häufiger waren Neutropenie, Durchfall und Arthralgien, auch Therapieabbrüche wegen Nebenwirkungen. Die Studie wurde wegen der Pandemie vorzeitig beendet, was die Aussagekraft einschränkt.
+
+Sarilumab ist in der EU für Patienten mit Polymyalgia rheumatica zugelassen, die unzureichend auf Glukokortikoide ansprechen oder unter dem Ausschleichen ein Rezidiv erleiden. Der Gemeinsame Bundesausschuss hat 2025 die Nutzenbewertung durchgeführt; Vergleichstherapie war das Steroid-Ausschleichen, gegebenenfalls mit Methotrexat. Tocilizumab ist für die Polymyalgia in der EU dagegen nicht zugelassen. Die EULAR-Empfehlung, Tocilizumab früh zu erwägen, bezieht sich auf Studiendaten und ist in Deutschland ein Off-Label-Einsatz.
+
+Was ändert sich in der Sprechstunde?.
+
+Was bedeutet das alles am Montag in der Sprechstunde?
+
+Erstens, Diagnostik: Ultraschall der Temporal- und Axillararterien als erste Untersuchung, möglichst vor oder innerhalb weniger Tage nach Steroidbeginn, weil die Sensitivität schnell abnimmt. Auch bei Polymyalgia rheumatica lohnt der Blick auf die Axillararterien, denn eine subklinische Gefäßbeteiligung ändert Dosis und Therapieziel.
+
+Zweitens, Steroide nach Schema: Polymyalgia 15 bis 25 Milligramm, Riesenzellarteriitis 40 bis 60 Milligramm, bei Visusbeteiligung Pulstherapie. Und die Ausschleichziele konsequent dokumentieren: 10 Milligramm nach zwei Monaten bei PMR, 15 bis 20 Milligramm nach zwei bis drei Monaten bei Riesenzellarteriitis.
+
+Drittens, Steroidsparer früh mitdenken: Bei Riesenzellarteriitis und hohem Steroidrisiko, also Diabetes, Osteoporose, Glaukom oder Adipositas, sowie bei Rezidiv Tocilizumab als erste Wahl, Upadacitinib als orale Alternative unter Beachtung der JAK-Warnhinweise, Methotrexat als Alternative. Bei der Polymyalgia: Sarilumab bei Rezidiv unter Ausschleichen, zugelassen; Methotrexat als günstigere Alternative mit schwächerer Evidenz.
+
+Viertens, Kontraindikationen prüfen: Divertikulitis in der Anamnese spricht gegen IL-6-Blockade wegen des Perforationsrisikos. Bei IL-6-Blockade sind CRP und BSG als Aktivitätsmarker unbrauchbar, Rezidive müssen klinisch und gegebenenfalls bildgebend erkannt werden.
+
+Fünftens, nicht zu früh absetzen: Die Zwei-Jahres-Daten zu Upadacitinib zeigen ein deutlich höheres Rezidivrisiko nach Absetzen. Ein fester Absetzzeitpunkt nach einem Jahr ist deshalb nicht evidenzbasiert. Die Therapiedauer sollte individuell nach Rezidivgeschichte und Steroidrisiko entschieden werden.
+
+Und sechstens: Osteoporoseprophylaxe, Pneumocystis-Prophylaxe bei hoher Steroiddosis und Kombinationstherapie sowie Impfungen nach STIKO nicht vergessen. Darauf gehen wir in einer eigenen Folge ein.
+
+Ausblick.
+
+Was kommt als Nächstes? In Phase III und späten Phase-II-Studien werden derzeit weitere Wirkprinzipien bei Polymyalgia und Riesenzellarteriitis untersucht, darunter IL-17- und IL-23-Blockade sowie weitere JAK-Inhibitoren. Die Vollpublikation der Zwei-Jahres-Daten von SELECT-GCA steht noch aus. In Deutschland ist eine Aktualisierung der S2k-Leitlinie Großgefäßvaskulitiden zu erwarten, die die Upadacitinib-Zulassung und die EULAR-Empfehlungen 2025 aufgreifen dürfte. Wir prüfen das im Quartals-Update.
+
+Merksätze.
+
+Zum Schluss die Merksätze zum Mitnehmen.
+
+Eins: Verdacht auf Riesenzellarteriitis heißt Steroide sofort und Spezialist innerhalb von 24 Stunden. Seit EULAR 2025 gehört auch die Polymyalgia rheumatica zur dringlichen Abklärung.
+
+Zwei: Ultraschall inklusive Axillararterien ist die Erstlinien-Diagnostik. Ein Steroid-Ansprechen beweist keine Polymyalgia.
+
+Drei: Bei Riesenzellarteriitis gibt es mit Tocilizumab und Upadacitinib zwei zugelassene Steroidsparer. Upadacitinib nur unter Beachtung der JAK-Warnhinweise, gerade bei älteren Patienten.
+
+Vier: Bei rezidivierender Polymyalgia ist Sarilumab zugelassen und in der deutschen Leitlinie 2025 verankert.
+
+Fünf: Secukinumab ist bei Riesenzellarteriitis in Phase III gescheitert.
+
+Alle Quellen mit Links finden Sie in den Shownotes. Dieser Podcast ist eine KI-gestützte Zusammenfassung zur Fortbildung und ersetzt weder Fachinformation noch Leitlinie im Original. Das nächste Update zu diesem Thema kommt im ersten Quartal 2027. Gute Fahrt und einen guten Tag in der Praxis.
