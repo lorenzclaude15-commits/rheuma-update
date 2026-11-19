@@ -1,91 +1,109 @@
-Rheuma-Update. Themenfolge, Stand viertes Quartal 2026: Riesenzellarteriitis und Polymyalgia rheumatica.
+Rheuma-Update. Themenfolge, Stand viertes Quartal 2026: Rheumatoide Arthritis, Teil 1. Therapiealgorithmus, Biologika, JAK-Inhibitoren und Neuzulassungen.
 
-Guten Morgen und willkommen zum Rheuma-Update. Heute geht es um zwei Erkrankungen, die in der Praxis eng zusammengehören: die Riesenzellarteriitis und die Polymyalgia rheumatica.
+Guten Morgen und willkommen zum Rheuma-Update. Heute geht es um die rheumatoide Arthritis, kurz RA, und zwar um den Therapiealgorithmus: Methotrexat, Biologika, JAK-Inhibitoren und was in der Versorgung neu ist.
 
 Drei Dinge vorweg, die Sie sich heute merken sollten.
 
-Erstens: Es gibt seit diesem Sommer gemeinsame EULAR-Empfehlungen 2025 für Polymyalgia rheumatica und Großgefäßvaskulitiden. Sie fassen erstmals beide Krankheitsbilder in einem Dokument zusammen und stärken die Steroid-sparende Therapie.
+Erstens: Es gibt seit August 2026 eine neue deutsche S3-Leitlinie zur Therapie der rheumatoiden Arthritis. Sie ersetzt die S2e-Leitlinie von 2018 und macht Glukokortikoide und Entscheidungszeitpunkte sehr konkret. Fast zeitgleich hat die EULAR, die europäische Rheumaliga, ihre Empfehlungen in der Version 2025 veröffentlicht. Beide sind sich in den Grundzügen einig.
 
-Zweitens: Upadacitinib ist seit April 2025 in der EU für die Riesenzellarteriitis zugelassen. Damit gibt es neben Tocilizumab eine zweite zugelassene Steroid-sparende Option, und zwar oral. Die Zwei-Jahres-Daten sprechen dafür, die Therapie bei Ansprechen nicht zu früh abzusetzen.
+Zweitens: Nach Versagen eines ersten TNF-Hemmers war in der Studie SELECT-SWITCH der Wechsel auf Upadacitinib wirksamer als ein zweiter TNF-Hemmer, nämlich Adalimumab. Gleichzeitig bestätigen neue Sicherheitsdaten vom EULAR-Kongress 2026 ein erhöhtes Thromboserisiko unter JAK-Inhibitoren.
 
-Drittens: Bei der Polymyalgia rheumatica ist Sarilumab zugelassen, und die neue deutsche S2e-Leitlinie von 2025 hat es aufgenommen. Die IL-17-Blockade mit Secukinumab ist dagegen in Phase III bei der Riesenzellarteriitis gescheitert.
+Drittens: Seit 1. April 2026 müssen Apotheken verordnete Biologika gegen günstigere Biosimilars austauschen, sofern Sie das nicht ausdrücklich ausschließen.
 
 Schauen wir uns das der Reihe nach an.
 
 Leitlinienstand.
 
-Beginnen wir mit den Leitlinien, denn hier hat sich am meisten bewegt.
+Beginnen wir mit den Leitlinien, denn hier hat sich in diesem Jahr am meisten bewegt.
 
-Die neuen EULAR-Empfehlungen 2025 zum Management von Polymyalgia rheumatica und primären Großgefäßvaskulitiden wurden beim EULAR-Kongress im Juni 2026 in London vorgestellt und im Juli 2026 in den Annals of the Rheumatic Diseases publiziert. Erstautor ist Chetan Mukhtyar, Letztautor Bernhard Hellmich. Sie ersetzen die PMR-Empfehlungen von 2015 und die Empfehlungen zu Riesenzellarteriitis und Takayasu von 2018. Das Ergebnis: vier übergeordnete Prinzipien, zwölf Empfehlungen und zwei Qualitätsindikatoren, alle mit sehr hoher Zustimmung in der Taskforce.
+Die neue deutsche S3-Leitlinie „Therapie der rheumatoiden Arthritis mit krankheitsmodifizierenden Medikamenten“ wurde im August 2026 im AWMF-Register veröffentlicht, Registernummer 060-004, Version 3.0. Federführend ist die Deutsche Gesellschaft für Rheumatologie und Klinische Immunologie, koordiniert von Torsten Witte aus Hannover und Jan Leipe aus Kiel. Beteiligt waren Innere Medizin, Geriatrie, Immunologie, Pharmakologie und die Deutsche Rheuma-Liga. Gültig ist sie bis Januar 2031.
 
-Was ist praktisch wichtig?
+Was ist neu?
 
-Zur Überweisung: Bei Verdacht auf Riesenzellarteriitis soll die Vorstellung beim Spezialisten innerhalb von 24 Stunden erfolgen. Neu ist, dass auch die Polymyalgia rheumatica ausdrücklich zur dringlichen fachärztlichen Abklärung empfohlen wird. Hintergrund sind Daten aus der Primärversorgung, die auf Über- und Fehldiagnosen sowie auf übersehene Gefäßbeteiligung hinweisen.
+Erstens das Therapieziel. Ziel ist die anhaltende Remission über mindestens 6 Monate. Ist das nicht erreichbar, dann niedrige Krankheitsaktivität. Für die Remission bevorzugt die Leitlinie strenge Kriterien, also CDAI, den klinischen Krankheitsaktivitätsindex, von höchstens 2,8, oder die Boolesche Definition. Den DAS28 sieht sie kritisch, weil er Remission überschätzt.
 
-Zum Therapiebeginn: Bei starkem Verdacht auf Riesenzellarteriitis sollen Glukokortikoide sofort beginnen, ohne auf Bestätigung zu warten. Bei Polymyalgia rheumatica und Takayasu darf man dagegen in den meisten Fällen die Diagnosesicherung abwarten. Und: Ein Steroid-Probetherapie-Ansprechen ist kein Diagnosekriterium. Auch Klassifikationskriterien sollen ausdrücklich nicht zur Diagnosestellung verwendet werden. Die Diagnose soll klinisch gestellt und durch Bildgebung oder Histologie bestätigt werden.
+Zweitens das Monitoring. Bei aktiver Erkrankung Kontrollen alle 1 bis 3 Monate. Nach 3 Monaten erwartet man eine deutliche Besserung, orientierend etwa 50 Prozent. Nach 6 Monaten soll das Ziel erreicht sein. Sonst wird angepasst.
 
-Zu den Dosen: Bei der Polymyalgia rheumatica Start mit 15 bis 25 Milligramm Prednisolon-Äquivalent pro Tag, Reduktion auf 10 Milligramm innerhalb von etwa zwei Monaten, Ziel ist das Absetzen innerhalb eines Jahres. Bei Riesenzellarteriitis und Takayasu Start mit 40 bis 60 Milligramm, Reduktion auf 15 bis 20 Milligramm bis Monat zwei bis drei, Ziel ist das Absetzen nach 12 bis 18 Monaten.
+Drittens Methotrexat. Es soll Teil der ersten Therapie sein. Startdosis 15 Milligramm pro Woche, rasche Steigerung bis 25 Milligramm möglich, ab höheren Dosen subkutane Gabe prüfen. Bei Kontraindikation oder früher Unverträglichkeit Leflunomid bis 20 Milligramm oder Sulfasalazin bis 3 Gramm am Tag. Hydroxychloroquin allein nur in Ausnahmefällen bei sehr milder Erkrankung.
 
-Zur Steroid-sparenden Therapie: IL-6-Rezeptor-Inhibitoren können bei ausgewählten Patienten mit Polymyalgia rheumatica und mit Riesenzellarteriitis eingesetzt werden. Bei der Polymyalgia kann Tocilizumab laut Taskforce bereits früh, also bei Neuerkrankung, erwogen werden. Bei der Riesenzellarteriitis ist Upadacitinib als Option neu aufgenommen. Methotrexat bleibt die Alternative. Bei Takayasu sollen alle Patienten von Beginn an eine Steroid-sparende Therapie erhalten.
+Viertens, und das ist der deutlichste Unterschied zu EULAR, die Glukokortikoide. Die Leitlinie nennt Zahlen: Startdosis höchstens 30 Milligramm Prednisolonäquivalent, Reduktion auf eine niedrige Dosis innerhalb von 8 Wochen, Beendigung möglichst nach 3 Monaten. Eine Dauertherapie soll vermieden werden. Ein dauerhafter Steroidbedarf gilt als Zeichen einer unzureichenden Basistherapie.
 
-Zur Bildgebung gelten weiter die EULAR-Bildgebungsempfehlungen von 2023: Ultraschall ist die Erstlinien-Bildgebung bei jedem Verdacht auf Riesenzellarteriitis, und zwar inklusive der Axillararterien. PET oder MRT sind Alternativen. Routinemäßige Verlaufsbildgebung wird nicht empfohlen, kann aber bei Rezidivverdacht helfen, vor allem wenn die Entzündungswerte unter IL-6-Blockade nicht aussagekräftig sind.
+Fünftens die Eskalation. Wird das Ziel mit der optimierten konventionellen Strategie verfehlt, folgt regelhaft ein Biologikum oder, nach individueller Risikoabwägung, ein JAK-Inhibitor. Als Risikofaktoren für JAK-Inhibitoren nennt die Leitlinie Rauchen, vorbestehende kardiovaskuläre oder maligne Erkrankung und ein Alter ab 65 Jahren. Ein zweites konventionelles Basistherapeutikum ist nur noch die Ausnahme, wenn keine ungünstigen Prognosefaktoren vorliegen. Die Dreifachkombination nach O’Dell wird ausdrücklich nicht als Alternative aufgenommen.
 
-Und in Deutschland? Für die Polymyalgia rheumatica gibt es seit April 2025 die aktualisierte S2e-Leitlinie der DGRh im AWMF-Register. Sie empfiehlt ebenfalls 15 bis 25 Milligramm Prednisolon morgens als Einzeldosis. Startdosen unter 7,5 und über 30 Milligramm sind nicht vorgesehen. Die wichtigste Neuerung gegenüber 2018: Sarilumab wird zusätzlich zu Glukokortikoiden bei rezidivierendem Verlauf empfohlen und kann bei ausgewählten Neuerkrankten mit hohem Risiko für Steroid-Nebenwirkungen erwogen werden. Nach stattgehabter Divertikulitis soll es nicht eingesetzt werden. Methotrexat bleibt Alternative mit schwächerer Studienlage. Rituximab ist auf Basis einer kleinen randomisierten Studie mit 47 Patienten aufgenommen. NSAR sind keine Primärtherapie, JAK-Inhibitoren für die PMR sind noch nicht berücksichtigt.
+Sechstens die Kombination. Biologika und JAK-Inhibitoren sollten mit Methotrexat kombiniert werden, dafür reichen oft 10 Milligramm pro Woche. Geht Methotrexat nicht, sind IL-6-Rezeptor-Hemmer und JAK-Inhibitoren in Monotherapie bevorzugt.
 
-Für die Riesenzellarteriitis gilt in Deutschland weiterhin die S2k-Leitlinie Großgefäßvaskulitiden von 2020. Kernpunkte: 40 bis 60 Milligramm Prednisolon, bei Visusstörung oder Amaurosis fugax Methylprednisolon-Pulse mit 500 bis 1.000 Milligramm intravenös über drei bis fünf Tage. Reduktion auf 10 bis 15 Milligramm nach drei Monaten, unter 5 Milligramm nach einem Jahr. Tocilizumab oder Methotrexat bei refraktärem oder rezidivierendem Verlauf oder hohem Steroidrisiko. Diese Leitlinie ist älter als die Zulassung von Upadacitinib. Für aktuelle Therapieentscheidungen sind deshalb die EULAR-Empfehlungen 2025 die aktuellere Referenz. Die ACR-Leitlinie von 2021 favorisiert übrigens Tocilizumab bereits bei Neudiagnose stärker als die europäischen Empfehlungen.
+Siebtens die Deeskalation. In anhaltender Remission und nach Absetzen der Steroide kann die Basistherapie schrittweise reduziert oder das Intervall verlängert werden. Ein vollständiges Absetzen wird nicht empfohlen.
+
+Und neu: Erstmals gibt es eine eigene Empfehlung zur RA-assoziierten interstitiellen Lungenerkrankung, mit enger Abstimmung zwischen Rheumatologie und Pneumologie. Dazu ein Kapitel zur Schwangerschaft und ein Prinzip, das die Kosten anspricht. Bei gleichwertigen Optionen kann das günstigere Präparat gewählt werden, zum Beispiel ein Biosimilar.
+
+Nun zu EULAR. Die EULAR-Empfehlungen 2025 zum Management der rheumatoiden Arthritis mit synthetischen und biologischen Basistherapeutika sind im Frühjahr 2026 in den Annals of the Rheumatic Diseases erschienen, Erstautor Josef Smolen, Ko-Leiter Christopher Edwards. Es sind nur noch 9 Empfehlungen statt bisher 11. Die 5 übergeordneten Prinzipien bleiben.
+
+Die wichtigste Änderung: Die Unterscheidung nach ungünstigen Prognosefaktoren nach Methotrexat-Versagen entfällt. Die Begründung: Wer auf Methotrexat plus Steroide nicht ausreichend anspricht, hat damit bereits einen ungünstigen Prognosefaktor. Also folgt dann ein Biologikum. Ein JAK-Inhibitor kann erwogen werden, nach Abwägung der Risiken für schwere kardiovaskuläre Ereignisse, Malignome und Thromboembolien. Diese Sicherheitsformulierung blieb gegenüber 2022 unverändert. Nach Versagen eines TNF- oder IL-6-Rezeptor-Hemmers ist sowohl ein Wechsel des Wirkprinzips als auch ein zweiter Vertreter derselben Klasse möglich. Bei Remission bevorzugt EULAR nun ausdrücklich das Fortführen der Basistherapie. Eine Dosisreduktion ist möglich. Smolen sagte dazu, ein komplettes Absetzen führe bei der großen Mehrheit zu einem Schub. Ein therapeutisches Drug-Monitoring wird nicht gefordert. Die Prä-RA wird diskutiert, bekommt aber noch keine eigene Empfehlung.
+
+Und die USA? Gültig ist weiterhin die ACR-Leitlinie von 2021, also des American College of Rheumatology. Sie setzt bei Methotrexat-naiven Patienten als minimales Ziel die niedrige Krankheitsaktivität und hat mehr Empfehlungen zu speziellen Situationen wie Lungenerkrankung oder Herzinsuffizienz. Eine neue ACR-Leitlinie zur RA habe ich bis heute nicht gefunden.
 
 Neue Studien und Zulassungen.
 
-Kommen wir zu den Studien. Ich beginne mit der Riesenzellarteriitis.
+Kommen wir zu den Studien und Zulassungen.
 
-Upadacitinib, SELECT-GCA. Diese Phase-III-Studie wurde 2025 im New England Journal of Medicine publiziert. 428 Patienten über 50 Jahre mit neu diagnostizierter oder rezidivierender Riesenzellarteriitis. Verglichen wurde Upadacitinib 15 Milligramm einmal täglich plus 26-wöchiges Steroid-Ausschleichen gegen Placebo plus 52-wöchiges Ausschleichen. Primärer Endpunkt: anhaltende Remission in Woche 52. Ergebnis: 46,4 Prozent unter Upadacitinib gegen 29,0 Prozent unter Placebo, p gleich 0,002. Der zweite Studienarm mit 7,5 Milligramm verfehlte die statistische Signifikanz, zugelassen sind deshalb 15 Milligramm.
+Zuerst SELECT-SWITCH. Diese randomisierte, doppelblinde Studie wurde im April 2026 in den Annals of the Rheumatic Diseases publiziert, Erstautor Eduardo Mysler. Formal ist es eine Phase-3b/4-Studie des Herstellers. 492 Patienten unter stabilem Methotrexat, die auf einen ersten TNF-Hemmer nicht ausreichend angesprochen oder ihn nicht vertragen hatten. Randomisiert auf Upadacitinib 15 Milligramm täglich oder Adalimumab 40 Milligramm alle 2 Wochen. Primärer Endpunkt war eine niedrige Krankheitsaktivität im DAS28-CRP, also höchstens 3,2, nach 12 Wochen. Ergebnis: 43,3 Prozent unter Upadacitinib gegen 22,4 Prozent unter Adalimumab. Die Differenz betrug 21 Prozentpunkte, 95-Prozent-Konfidenzintervall 12,9 bis 29,1, p kleiner 0,0001. Remission im DAS28-CRP: 28,4 gegen 14,5 Prozent. ACR50: 38,2 gegen 26,8 Prozent. Kein signifikanter Unterschied in der Funktion, gemessen mit dem HAQ-DI. Die Sicherheit war in 12 Wochen vergleichbar, ohne venöse Thromboembolien oder schwere kardiovaskuläre Ereignisse.
 
-Zur Sicherheit im ersten Jahr: Schwere Infektionen 5,7 gegen 10,7 Prozent, also unter Upadacitinib sogar seltener, vermutlich wegen der geringeren Steroidlast. Malignome 1,9 gegen 1,8 Prozent, venöse Thromboembolien 3,3 gegen 3,6 Prozent, keine schweren kardiovaskulären Ereignisse unter Upadacitinib gegenüber zwei unter Placebo.
+Wie ist das einzuordnen? Erstens: 12 Wochen sind kurz, die 48-Wochen-Daten stehen aus. Zweitens: DAS28 ist kein strenger Endpunkt, und JAK-Inhibitoren senken das CRP stark. Drittens: Die Studie stützt den Mechanismuswechsel nach TNF-Versagen. Sie hebt aber die JAK-Warnhinweise nicht auf. Sie ist eine Option nach Risikoabwägung, keine generelle Vorfahrt.
 
-Die Europäische Kommission hat Upadacitinib im April 2025 für die Riesenzellarteriitis bei Erwachsenen zugelassen. Wichtig für die Praxis: Für alle JAK-Inhibitoren gelten seit 2023 die Warnhinweise der EMA. Bei Patienten ab 65 Jahren, mit kardiovaskulären Risikofaktoren, Malignomrisiko oder Thromboserisiko sollen JAK-Inhibitoren nur eingesetzt werden, wenn keine geeignete Alternative besteht. Das Durchschnittsalter in SELECT-GCA lag bei 71 Jahren. Praktisch heißt das: Bei den meisten Riesenzellarteriitis-Patienten bleibt Tocilizumab die erste Wahl, und Upadacitinib ist eine dokumentationspflichtige Alternative, etwa bei Spritzenablehnung, Unverträglichkeit von Tocilizumab oder Divertikulitis-Anamnese.
+Damit zur Sicherheit, und hier gibt es zwei wichtige Kongressbeiträge vom EULAR 2026 in London, beide noch nicht peer-reviewt.
 
-Neu sind die Zwei-Jahres-Daten, vorgestellt als Plenarbeitrag auf der ACR Convergence im Oktober 2025. Patienten, die nach Woche 52 in anhaltender Remission waren, wurden erneut randomisiert: weiter Upadacitinib oder Wechsel auf Placebo. Von Woche 52 bis 104 blieben 68,6 Prozent unter fortgesetztem Upadacitinib in Remission, gegenüber 28,6 Prozent nach Absetzen. Das Schubrisiko sank um etwa 90 Prozent, die kumulative Steroiddosis war rund ein Gramm niedriger. Mehr Herpes zoster und CK-Erhöhungen unter Upadacitinib, keine neuen Sicherheitssignale. Achtung: Das ist bisher ein Kongressabstract, also noch nicht vollständig peer-reviewt. Die Botschaft passt aber zu den Tocilizumab-Erfahrungen: Wer früh absetzt, riskiert Rezidive.
+Erstens RA-BRIDGE und RA-BRANCH. Das sind zwei von den Behörden auferlegte, randomisierte, offene Studien zu Baricitinib, gepoolt ausgewertet. 3.640 Patienten mit mindestens einem Thromboserisikofaktor, also Adipositas, Alter ab 60 Jahren oder frühere Thrombose. Baricitinib 2 oder 4 Milligramm gegen einen TNF-Hemmer, mediane Beobachtung 3,7 Jahre. Ergebnis: 62 venöse Thromboembolien in beiden Baricitinib-Armen zusammen gegen 20 unter TNF-Hemmer. Die Nichtunterlegenheit wurde verfehlt, und die niedrige Dosis von 2 Milligramm schützte nicht. Bei schweren kardiovaskulären Ereignissen dagegen kein Unterschied, Hazard Ratio 1,06. Malignome ohne hellen Hautkrebs: Hazard Ratio 1,27, nicht signifikant. Schwere Infektionen waren unter Baricitinib häufiger.
 
-Zum Vergleich die Referenz: In GiACTA, NEJM 2017, erreichten unter wöchentlichem Tocilizumab plus 26-wöchigem Ausschleichen 56 Prozent eine anhaltende Remission, unter Placebo mit 52-wöchigem Ausschleichen 18 Prozent. Direkte Vergleichsstudien zwischen Tocilizumab und Upadacitinib gibt es nicht. Studienübergreifende Vergleiche sind wegen unterschiedlicher Endpunktdefinitionen nicht zulässig.
+Zweitens eine landesweite schwedische Registerstudie, vorgestellt von Maxime Raffray, mit über 25.000 RA-Patienten. Das Risiko für venöse Thromboembolien war unter JAK-Inhibitoren gegenüber TNF-Hemmern etwa verdoppelt, adjustierte Hazard Ratio 1,89. Absolut heißt das: Behandelt man 250 Patienten ein Jahr lang mit einem JAK-Inhibitor statt einem TNF-Hemmer, entsteht etwa eine zusätzliche Thrombose.
 
-Jetzt die negative Studie: Secukinumab, GCAptAIN. Nach einer positiven Phase-II-Studie wurde die IL-17A-Blockade in Phase III geprüft. 353 Patienten in der Auswertung. Anhaltende Remission in Woche 52: 25,6 Prozent unter 300 Milligramm Secukinumab gegen 16,9 Prozent unter Placebo, Unterschied 8,7 Prozentpunkte, p gleich 0,09, also nicht signifikant. Die 150-Milligramm-Dosis lag mit 19,4 Prozent praktisch auf Placeboniveau. Numerisch weniger schwere unerwünschte Ereignisse, aber kein Wirksamkeitsnachweis. Die Vollpublikation erschien im Juli 2026 in NEJM Evidence. Für die Praxis: Secukinumab ist keine Option bei Riesenzellarteriitis außerhalb von Studien.
+Das passt zur systematischen Sicherheitsübersicht für die EULAR-Empfehlungen 2025: kein konsistent erhöhtes Risiko für schwere kardiovaskuläre Ereignisse gegenüber Biologika, aber mehr Thromboembolien, vor allem Lungenembolien, und mehr Herpes zoster unter JAK-Inhibitoren. Zur Erinnerung: Die EMA-Warnhinweise von 2023 nach der Studie ORAL Surveillance gelten unverändert. Bei Patienten ab 65 Jahren, Rauchern, mit kardiovaskulärem, Malignom- oder Thromboserisiko JAK-Inhibitoren nur, wenn keine geeignete Alternative besteht.
 
-Nun zur Polymyalgia rheumatica. Die Schlüsselstudie für Sarilumab ist SAPHYR, publiziert im New England Journal of Medicine 2023. 118 Patienten mit rezidivierender Polymyalgia unter Steroid-Ausschleichen. Sarilumab 200 Milligramm subkutan alle zwei Wochen plus 14-wöchiges Ausschleichen gegen Placebo plus 52-wöchiges Ausschleichen. Anhaltende Remission in Woche 52: 28 gegen 10 Prozent. Die mediane kumulative Prednisondosis sank um mehr als die Hälfte: 777 gegen 2.044 Milligramm. Häufiger waren Neutropenie, Durchfall und Arthralgien, auch Therapieabbrüche wegen Nebenwirkungen. Die Studie wurde wegen der Pandemie vorzeitig beendet, was die Aussagekraft einschränkt.
+Nun zu den Zulassungen. Echte neue Wirkprinzipien für die RA hat es in der EU in den letzten 2 Jahren nicht gegeben. Bewegung gibt es bei Nachahmerpräparaten. Für Golimumab gab die EMA Ende 2025 ein positives Votum für ein Biosimilar. Und im September 2026 empfahl der Ausschuss für Humanarzneimittel der EMA ein Tofacitinib-Generikum zur Zulassung. Damit werden auch JAK-Inhibitoren günstiger. Eine neue Nutzenbewertung des Gemeinsamen Bundesausschusses zu einem RA-Wirkstoff habe ich in diesem Zeitraum nicht gefunden.
 
-Sarilumab ist in der EU für Patienten mit Polymyalgia rheumatica zugelassen, die unzureichend auf Glukokortikoide ansprechen oder unter dem Ausschleichen ein Rezidiv erleiden. Der Gemeinsame Bundesausschuss hat 2025 die Nutzenbewertung durchgeführt; Vergleichstherapie war das Steroid-Ausschleichen, gegebenenfalls mit Methotrexat. Tocilizumab ist für die Polymyalgia in der EU dagegen nicht zugelassen. Die EULAR-Empfehlung, Tocilizumab früh zu erwägen, bezieht sich auf Studiendaten und ist in Deutschland ein Off-Label-Einsatz.
+Für die Praxis in Deutschland wichtiger ist eine neue Regel desselben Gremiums, kurz G-BA. Seit 1. April 2026 gilt Paragraf 40c der Arzneimittel-Richtlinie. Apotheken müssen ein verordnetes Biologikum durch ein günstigeres, austauschbares Präparat ersetzen, vorrangig mit Rabattvertrag. Voraussetzung: gleicher Referenzwirkstoff, mindestens ein gleiches Anwendungsgebiet, gleiche Applikationsart, Wirkstärke, Packungsgröße und gleiches Behältnis, also etwa Pen gegen Pen. Sie können den Austausch mit dem Aut-idem-Kreuz ausschließen, aber nur aus medizinisch-therapeutischen Gründen. Verordnet werden muss ein konkretes Fertigarzneimittel.
 
 Was ändert sich in der Sprechstunde?.
 
 Was bedeutet das alles am Montag in der Sprechstunde?
 
-Erstens, Diagnostik: Ultraschall der Temporal- und Axillararterien als erste Untersuchung, möglichst vor oder innerhalb weniger Tage nach Steroidbeginn, weil die Sensitivität schnell abnimmt. Auch bei Polymyalgia rheumatica lohnt der Blick auf die Axillararterien, denn eine subklinische Gefäßbeteiligung ändert Dosis und Therapieziel.
+Erstens, Start: Methotrexat ab Diagnose, 15 Milligramm pro Woche, rasch steigern. Dazu kurzzeitig Prednisolon, höchstens 30 Milligramm, nach 8 Wochen niedrig dosiert, nach 3 Monaten beendet. Schreiben Sie sich das Absetzdatum in die Akte.
 
-Zweitens, Steroide nach Schema: Polymyalgia 15 bis 25 Milligramm, Riesenzellarteriitis 40 bis 60 Milligramm, bei Visusbeteiligung Pulstherapie. Und die Ausschleichziele konsequent dokumentieren: 10 Milligramm nach zwei Monaten bei PMR, 15 bis 20 Milligramm nach zwei bis drei Monaten bei Riesenzellarteriitis.
+Zweitens, Termine: Erste Kontrolle nach spätestens 3 Monaten mit klarer Frage: Ist die Aktivität etwa halbiert? Nach 6 Monaten: Ist das Ziel erreicht? Wenn nicht, eskalieren und nicht abwarten.
 
-Drittens, Steroidsparer früh mitdenken: Bei Riesenzellarteriitis und hohem Steroidrisiko, also Diabetes, Osteoporose, Glaukom oder Adipositas, sowie bei Rezidiv Tocilizumab als erste Wahl, Upadacitinib als orale Alternative unter Beachtung der JAK-Warnhinweise, Methotrexat als Alternative. Bei der Polymyalgia: Sarilumab bei Rezidiv unter Ausschleichen, zugelassen; Methotrexat als günstigere Alternative mit schwächerer Evidenz.
+Drittens, Eskalation: In der Regel ein Biologikum, kombiniert mit Methotrexat. Ein JAK-Inhibitor ist gleichwertig wirksam, aber nur nach dokumentierter Risikoabwägung. Fragen Sie konkret nach Alter, Rauchen, früheren Thrombosen, Adipositas, kardiovaskulären Ereignissen und Malignomen. Neu ist: Auch bei jüngeren Patienten mit Thromboserisiko ist Vorsicht geboten. Das zeigen RA-BRIDGE und die schwedischen Registerdaten.
 
-Viertens, Kontraindikationen prüfen: Divertikulitis in der Anamnese spricht gegen IL-6-Blockade wegen des Perforationsrisikos. Bei IL-6-Blockade sind CRP und BSG als Aktivitätsmarker unbrauchbar, Rezidive müssen klinisch und gegebenenfalls bildgebend erkannt werden.
+Viertens, nach TNF-Versagen: Ein Mechanismuswechsel ist oft sinnvoll. SELECT-SWITCH spricht bei geeigneten Patienten für Upadacitinib vor einem zweiten TNF-Hemmer. Ein zweiter TNF-Hemmer bleibt aber laut EULAR und S3-Leitlinie erlaubt, etwa bei Risikopatienten für JAK-Inhibitoren.
 
-Fünftens, nicht zu früh absetzen: Die Zwei-Jahres-Daten zu Upadacitinib zeigen ein deutlich höheres Rezidivrisiko nach Absetzen. Ein fester Absetzzeitpunkt nach einem Jahr ist deshalb nicht evidenzbasiert. Die Therapiedauer sollte individuell nach Rezidivgeschichte und Steroidrisiko entschieden werden.
+Fünftens, Herpes zoster: Vor JAK-Inhibitoren an die Impfung mit dem Totimpfstoff denken.
 
-Und sechstens: Osteoporoseprophylaxe, Pneumocystis-Prophylaxe bei hoher Steroiddosis und Kombinationstherapie sowie Impfungen nach STIKO nicht vergessen. Darauf gehen wir in einer eigenen Folge ein.
+Sechstens, Lunge: Bei Husten, Belastungsdyspnoe oder Knisterrasseln frühzeitig an eine interstitielle Lungenerkrankung denken und die Pneumologie einbinden. In der Studie ANCHOR-RA, vorgestellt beim EULAR 2026, fand sich bei Patienten mit Risikofaktoren in 9 Prozent eine bisher unbekannte Lungenbeteiligung.
+
+Siebtens, Remission: Reduzieren ja, absetzen nein. Erst Steroide weg, dann Basistherapie schrittweise reduzieren.
+
+Achtens, Rezept: Wenn ein Patient auf einem bestimmten Biologikum gut eingestellt ist und ein Wechsel medizinisch problematisch wäre, das Aut-idem-Kreuz setzen und den Grund dokumentieren. Und die Patienten vorab informieren, dass sich Pen und Packung ändern können.
 
 Ausblick.
 
-Was kommt als Nächstes? In Phase III und späten Phase-II-Studien werden derzeit weitere Wirkprinzipien bei Polymyalgia und Riesenzellarteriitis untersucht, darunter IL-17- und IL-23-Blockade sowie weitere JAK-Inhibitoren. Die Vollpublikation der Zwei-Jahres-Daten von SELECT-GCA steht noch aus. In Deutschland ist eine Aktualisierung der S2k-Leitlinie Großgefäßvaskulitiden zu erwarten, die die Upadacitinib-Zulassung und die EULAR-Empfehlungen 2025 aufgreifen dürfte. Wir prüfen das im Quartals-Update.
+Was kommt als Nächstes?
+
+Von SELECT-SWITCH erwarten wir die 48-Wochen-Daten. Die gepoolten Daten zu Baricitinib aus RA-BRIDGE und RA-BRANCH sollen vollständig publiziert werden. Erst dann lässt sich beurteilen, ob sich die Sicherheitsbewertung einzelner JAK-Inhibitoren unterscheidet.
+
+Spannend bleibt die Prävention. In der britischen Studie APIPPRA, Lancet 2024, verzögerte 1 Jahr Abatacept bei ACPA-positiven Patienten mit Gelenkschmerzen den Übergang in eine RA. Nach 12 Monaten entwickelten 6 Prozent unter Abatacept gegen 29 Prozent unter Placebo eine Arthritis. Die Langzeitstudie ALTO, Lancet Rheumatology 2026, zeigt: Nach etwa 4 Jahren schrumpft der Unterschied auf 48 gegen 56 Prozent. Das war eine Phase-2b-Studie. Abatacept ist für diese Indikation nicht zugelassen, es wäre Off-Label. Eine Studie mit Baricitinib bei Risikopersonen, ExIST, läuft noch.
+
+Neue Wirkprinzipien sind früher in der Entwicklung. Der PD-1-Agonist Rosnilimab zeigte beim ACR-Kongress 2025 in einer Phase-2b-Studie Wirksamkeit, das ist vorläufig. Zu T-Zell-Engagern und CAR-T-Zellen bei therapierefraktärer RA kommt eine eigene Folge in Block 25.
 
 Merksätze.
 
 Zum Schluss die Merksätze zum Mitnehmen.
 
-Eins: Verdacht auf Riesenzellarteriitis heißt Steroide sofort und Spezialist innerhalb von 24 Stunden. Seit EULAR 2025 gehört auch die Polymyalgia rheumatica zur dringlichen Abklärung.
+Eins: Seit August 2026 gilt die neue deutsche S3-Leitlinie. Ziel ist die anhaltende Remission, gemessen mit strengen Kriterien.
 
-Zwei: Ultraschall inklusive Axillararterien ist die Erstlinien-Diagnostik. Ein Steroid-Ansprechen beweist keine Polymyalgia.
+Zwei: Glukokortikoide nur als Brücke: höchstens 30 Milligramm zum Start, nach 8 Wochen niedrig dosiert, nach 3 Monaten beendet.
 
-Drei: Bei Riesenzellarteriitis gibt es mit Tocilizumab und Upadacitinib zwei zugelassene Steroidsparer. Upadacitinib nur unter Beachtung der JAK-Warnhinweise, gerade bei älteren Patienten.
+Drei: Kontrolle nach 3 und nach 6 Monaten. Wer nach Methotrexat das Ziel verfehlt, bekommt in der Regel ein Biologikum, alternativ nach Risikoabwägung einen JAK-Inhibitor. Eine Einteilung nach Prognosefaktoren entfällt bei EULAR.
 
-Vier: Bei rezidivierender Polymyalgia ist Sarilumab zugelassen und in der deutschen Leitlinie 2025 verankert.
+Vier: JAK-Inhibitoren verdoppeln etwa das Thromboserisiko gegenüber TNF-Hemmern. Nach TNF-Versagen war Upadacitinib in SELECT-SWITCH wirksamer als Adalimumab.
 
-Fünf: Secukinumab ist bei Riesenzellarteriitis in Phase III gescheitert.
+Fünf: In Remission reduzieren, nicht absetzen. Und seit April 2026 gilt der Biosimilar-Austausch in der Apotheke, ausschließbar nur mit medizinisch begründetem Aut-idem-Kreuz.
 
-Alle Quellen mit Links finden Sie in den Shownotes. Dieser Podcast ist eine KI-gestützte Zusammenfassung zur Fortbildung und ersetzt weder Fachinformation noch Leitlinie im Original. Das nächste Update zu diesem Thema kommt im ersten Quartal 2027. Gute Fahrt und einen guten Tag in der Praxis.
+Alle Quellen mit Links finden Sie in den Shownotes. Dieser Podcast ist eine KI-gestützte Zusammenfassung zur Fortbildung und ersetzt weder Fachinformation noch Leitlinie im Original. Das nächste Update zu diesem Thema kommt im ersten Quartal 2027. Nächste Woche geht es um das VEXAS-Syndrom und den adulten Morbus Still. Gute Fahrt und einen guten Tag in der Praxis.

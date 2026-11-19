@@ -1,0 +1,109 @@
+Rheuma-Update. Themenfolge, Stand viertes Quartal 2026: Rheumatoide Arthritis, Teil 1. Therapiealgorithmus, Biologika, JAK-Inhibitoren und Neuzulassungen.
+
+Guten Morgen und willkommen zum Rheuma-Update. Heute geht es um die rheumatoide Arthritis, kurz RA, und zwar um den Therapiealgorithmus: Methotrexat, Biologika, JAK-Inhibitoren und was in der Versorgung neu ist.
+
+Drei Dinge vorweg, die Sie sich heute merken sollten.
+
+Erstens: Es gibt seit August 2026 eine neue deutsche S3-Leitlinie zur Therapie der rheumatoiden Arthritis. Sie ersetzt die S2e-Leitlinie von 2018 und macht Glukokortikoide und Entscheidungszeitpunkte sehr konkret. Fast zeitgleich hat die EULAR, die europäische Rheumaliga, ihre Empfehlungen in der Version 2025 veröffentlicht. Beide sind sich in den Grundzügen einig.
+
+Zweitens: Nach Versagen eines ersten TNF-Hemmers war in der Studie SELECT-SWITCH der Wechsel auf Upadacitinib wirksamer als ein zweiter TNF-Hemmer, nämlich Adalimumab. Gleichzeitig bestätigen neue Sicherheitsdaten vom EULAR-Kongress 2026 ein erhöhtes Thromboserisiko unter JAK-Inhibitoren.
+
+Drittens: Seit 1. April 2026 müssen Apotheken verordnete Biologika gegen günstigere Biosimilars austauschen, sofern Sie das nicht ausdrücklich ausschließen.
+
+Schauen wir uns das der Reihe nach an.
+
+Leitlinienstand.
+
+Beginnen wir mit den Leitlinien, denn hier hat sich in diesem Jahr am meisten bewegt.
+
+Die neue deutsche S3-Leitlinie „Therapie der rheumatoiden Arthritis mit krankheitsmodifizierenden Medikamenten“ wurde im August 2026 im AWMF-Register veröffentlicht, Registernummer 060-004, Version 3.0. Federführend ist die Deutsche Gesellschaft für Rheumatologie und Klinische Immunologie, koordiniert von Torsten Witte aus Hannover und Jan Leipe aus Kiel. Beteiligt waren Innere Medizin, Geriatrie, Immunologie, Pharmakologie und die Deutsche Rheuma-Liga. Gültig ist sie bis Januar 2031.
+
+Was ist neu?
+
+Erstens das Therapieziel. Ziel ist die anhaltende Remission über mindestens 6 Monate. Ist das nicht erreichbar, dann niedrige Krankheitsaktivität. Für die Remission bevorzugt die Leitlinie strenge Kriterien, also CDAI, den klinischen Krankheitsaktivitätsindex, von höchstens 2,8, oder die Boolesche Definition. Den DAS28 sieht sie kritisch, weil er Remission überschätzt.
+
+Zweitens das Monitoring. Bei aktiver Erkrankung Kontrollen alle 1 bis 3 Monate. Nach 3 Monaten erwartet man eine deutliche Besserung, orientierend etwa 50 Prozent. Nach 6 Monaten soll das Ziel erreicht sein. Sonst wird angepasst.
+
+Drittens Methotrexat. Es soll Teil der ersten Therapie sein. Startdosis 15 Milligramm pro Woche, rasche Steigerung bis 25 Milligramm möglich, ab höheren Dosen subkutane Gabe prüfen. Bei Kontraindikation oder früher Unverträglichkeit Leflunomid bis 20 Milligramm oder Sulfasalazin bis 3 Gramm am Tag. Hydroxychloroquin allein nur in Ausnahmefällen bei sehr milder Erkrankung.
+
+Viertens, und das ist der deutlichste Unterschied zu EULAR, die Glukokortikoide. Die Leitlinie nennt Zahlen: Startdosis höchstens 30 Milligramm Prednisolonäquivalent, Reduktion auf eine niedrige Dosis innerhalb von 8 Wochen, Beendigung möglichst nach 3 Monaten. Eine Dauertherapie soll vermieden werden. Ein dauerhafter Steroidbedarf gilt als Zeichen einer unzureichenden Basistherapie.
+
+Fünftens die Eskalation. Wird das Ziel mit der optimierten konventionellen Strategie verfehlt, folgt regelhaft ein Biologikum oder, nach individueller Risikoabwägung, ein JAK-Inhibitor. Als Risikofaktoren für JAK-Inhibitoren nennt die Leitlinie Rauchen, vorbestehende kardiovaskuläre oder maligne Erkrankung und ein Alter ab 65 Jahren. Ein zweites konventionelles Basistherapeutikum ist nur noch die Ausnahme, wenn keine ungünstigen Prognosefaktoren vorliegen. Die Dreifachkombination nach O’Dell wird ausdrücklich nicht als Alternative aufgenommen.
+
+Sechstens die Kombination. Biologika und JAK-Inhibitoren sollten mit Methotrexat kombiniert werden, dafür reichen oft 10 Milligramm pro Woche. Geht Methotrexat nicht, sind IL-6-Rezeptor-Hemmer und JAK-Inhibitoren in Monotherapie bevorzugt.
+
+Siebtens die Deeskalation. In anhaltender Remission und nach Absetzen der Steroide kann die Basistherapie schrittweise reduziert oder das Intervall verlängert werden. Ein vollständiges Absetzen wird nicht empfohlen.
+
+Und neu: Erstmals gibt es eine eigene Empfehlung zur RA-assoziierten interstitiellen Lungenerkrankung, mit enger Abstimmung zwischen Rheumatologie und Pneumologie. Dazu ein Kapitel zur Schwangerschaft und ein Prinzip, das die Kosten anspricht. Bei gleichwertigen Optionen kann das günstigere Präparat gewählt werden, zum Beispiel ein Biosimilar.
+
+Nun zu EULAR. Die EULAR-Empfehlungen 2025 zum Management der rheumatoiden Arthritis mit synthetischen und biologischen Basistherapeutika sind im Frühjahr 2026 in den Annals of the Rheumatic Diseases erschienen, Erstautor Josef Smolen, Ko-Leiter Christopher Edwards. Es sind nur noch 9 Empfehlungen statt bisher 11. Die 5 übergeordneten Prinzipien bleiben.
+
+Die wichtigste Änderung: Die Unterscheidung nach ungünstigen Prognosefaktoren nach Methotrexat-Versagen entfällt. Die Begründung: Wer auf Methotrexat plus Steroide nicht ausreichend anspricht, hat damit bereits einen ungünstigen Prognosefaktor. Also folgt dann ein Biologikum. Ein JAK-Inhibitor kann erwogen werden, nach Abwägung der Risiken für schwere kardiovaskuläre Ereignisse, Malignome und Thromboembolien. Diese Sicherheitsformulierung blieb gegenüber 2022 unverändert. Nach Versagen eines TNF- oder IL-6-Rezeptor-Hemmers ist sowohl ein Wechsel des Wirkprinzips als auch ein zweiter Vertreter derselben Klasse möglich. Bei Remission bevorzugt EULAR nun ausdrücklich das Fortführen der Basistherapie. Eine Dosisreduktion ist möglich. Smolen sagte dazu, ein komplettes Absetzen führe bei der großen Mehrheit zu einem Schub. Ein therapeutisches Drug-Monitoring wird nicht gefordert. Die Prä-RA wird diskutiert, bekommt aber noch keine eigene Empfehlung.
+
+Und die USA? Gültig ist weiterhin die ACR-Leitlinie von 2021, also des American College of Rheumatology. Sie setzt bei Methotrexat-naiven Patienten als minimales Ziel die niedrige Krankheitsaktivität und hat mehr Empfehlungen zu speziellen Situationen wie Lungenerkrankung oder Herzinsuffizienz. Eine neue ACR-Leitlinie zur RA habe ich bis heute nicht gefunden.
+
+Neue Studien und Zulassungen.
+
+Kommen wir zu den Studien und Zulassungen.
+
+Zuerst SELECT-SWITCH. Diese randomisierte, doppelblinde Studie wurde im April 2026 in den Annals of the Rheumatic Diseases publiziert, Erstautor Eduardo Mysler. Formal ist es eine Phase-3b/4-Studie des Herstellers. 492 Patienten unter stabilem Methotrexat, die auf einen ersten TNF-Hemmer nicht ausreichend angesprochen oder ihn nicht vertragen hatten. Randomisiert auf Upadacitinib 15 Milligramm täglich oder Adalimumab 40 Milligramm alle 2 Wochen. Primärer Endpunkt war eine niedrige Krankheitsaktivität im DAS28-CRP, also höchstens 3,2, nach 12 Wochen. Ergebnis: 43,3 Prozent unter Upadacitinib gegen 22,4 Prozent unter Adalimumab. Die Differenz betrug 21 Prozentpunkte, 95-Prozent-Konfidenzintervall 12,9 bis 29,1, p kleiner 0,0001. Remission im DAS28-CRP: 28,4 gegen 14,5 Prozent. ACR50: 38,2 gegen 26,8 Prozent. Kein signifikanter Unterschied in der Funktion, gemessen mit dem HAQ-DI. Die Sicherheit war in 12 Wochen vergleichbar, ohne venöse Thromboembolien oder schwere kardiovaskuläre Ereignisse.
+
+Wie ist das einzuordnen? Erstens: 12 Wochen sind kurz, die 48-Wochen-Daten stehen aus. Zweitens: DAS28 ist kein strenger Endpunkt, und JAK-Inhibitoren senken das CRP stark. Drittens: Die Studie stützt den Mechanismuswechsel nach TNF-Versagen. Sie hebt aber die JAK-Warnhinweise nicht auf. Sie ist eine Option nach Risikoabwägung, keine generelle Vorfahrt.
+
+Damit zur Sicherheit, und hier gibt es zwei wichtige Kongressbeiträge vom EULAR 2026 in London, beide noch nicht peer-reviewt.
+
+Erstens RA-BRIDGE und RA-BRANCH. Das sind zwei von den Behörden auferlegte, randomisierte, offene Studien zu Baricitinib, gepoolt ausgewertet. 3.640 Patienten mit mindestens einem Thromboserisikofaktor, also Adipositas, Alter ab 60 Jahren oder frühere Thrombose. Baricitinib 2 oder 4 Milligramm gegen einen TNF-Hemmer, mediane Beobachtung 3,7 Jahre. Ergebnis: 62 venöse Thromboembolien in beiden Baricitinib-Armen zusammen gegen 20 unter TNF-Hemmer. Die Nichtunterlegenheit wurde verfehlt, und die niedrige Dosis von 2 Milligramm schützte nicht. Bei schweren kardiovaskulären Ereignissen dagegen kein Unterschied, Hazard Ratio 1,06. Malignome ohne hellen Hautkrebs: Hazard Ratio 1,27, nicht signifikant. Schwere Infektionen waren unter Baricitinib häufiger.
+
+Zweitens eine landesweite schwedische Registerstudie, vorgestellt von Maxime Raffray, mit über 25.000 RA-Patienten. Das Risiko für venöse Thromboembolien war unter JAK-Inhibitoren gegenüber TNF-Hemmern etwa verdoppelt, adjustierte Hazard Ratio 1,89. Absolut heißt das: Behandelt man 250 Patienten ein Jahr lang mit einem JAK-Inhibitor statt einem TNF-Hemmer, entsteht etwa eine zusätzliche Thrombose.
+
+Das passt zur systematischen Sicherheitsübersicht für die EULAR-Empfehlungen 2025: kein konsistent erhöhtes Risiko für schwere kardiovaskuläre Ereignisse gegenüber Biologika, aber mehr Thromboembolien, vor allem Lungenembolien, und mehr Herpes zoster unter JAK-Inhibitoren. Zur Erinnerung: Die EMA-Warnhinweise von 2023 nach der Studie ORAL Surveillance gelten unverändert. Bei Patienten ab 65 Jahren, Rauchern, mit kardiovaskulärem, Malignom- oder Thromboserisiko JAK-Inhibitoren nur, wenn keine geeignete Alternative besteht.
+
+Nun zu den Zulassungen. Echte neue Wirkprinzipien für die RA hat es in der EU in den letzten 2 Jahren nicht gegeben. Bewegung gibt es bei Nachahmerpräparaten. Für Golimumab gab die EMA Ende 2025 ein positives Votum für ein Biosimilar. Und im September 2026 empfahl der Ausschuss für Humanarzneimittel der EMA ein Tofacitinib-Generikum zur Zulassung. Damit werden auch JAK-Inhibitoren günstiger. Eine neue Nutzenbewertung des Gemeinsamen Bundesausschusses zu einem RA-Wirkstoff habe ich in diesem Zeitraum nicht gefunden.
+
+Für die Praxis in Deutschland wichtiger ist eine neue Regel desselben Gremiums, kurz G-BA. Seit 1. April 2026 gilt Paragraf 40c der Arzneimittel-Richtlinie. Apotheken müssen ein verordnetes Biologikum durch ein günstigeres, austauschbares Präparat ersetzen, vorrangig mit Rabattvertrag. Voraussetzung: gleicher Referenzwirkstoff, mindestens ein gleiches Anwendungsgebiet, gleiche Applikationsart, Wirkstärke, Packungsgröße und gleiches Behältnis, also etwa Pen gegen Pen. Sie können den Austausch mit dem Aut-idem-Kreuz ausschließen, aber nur aus medizinisch-therapeutischen Gründen. Verordnet werden muss ein konkretes Fertigarzneimittel.
+
+Was ändert sich in der Sprechstunde?.
+
+Was bedeutet das alles am Montag in der Sprechstunde?
+
+Erstens, Start: Methotrexat ab Diagnose, 15 Milligramm pro Woche, rasch steigern. Dazu kurzzeitig Prednisolon, höchstens 30 Milligramm, nach 8 Wochen niedrig dosiert, nach 3 Monaten beendet. Schreiben Sie sich das Absetzdatum in die Akte.
+
+Zweitens, Termine: Erste Kontrolle nach spätestens 3 Monaten mit klarer Frage: Ist die Aktivität etwa halbiert? Nach 6 Monaten: Ist das Ziel erreicht? Wenn nicht, eskalieren und nicht abwarten.
+
+Drittens, Eskalation: In der Regel ein Biologikum, kombiniert mit Methotrexat. Ein JAK-Inhibitor ist gleichwertig wirksam, aber nur nach dokumentierter Risikoabwägung. Fragen Sie konkret nach Alter, Rauchen, früheren Thrombosen, Adipositas, kardiovaskulären Ereignissen und Malignomen. Neu ist: Auch bei jüngeren Patienten mit Thromboserisiko ist Vorsicht geboten. Das zeigen RA-BRIDGE und die schwedischen Registerdaten.
+
+Viertens, nach TNF-Versagen: Ein Mechanismuswechsel ist oft sinnvoll. SELECT-SWITCH spricht bei geeigneten Patienten für Upadacitinib vor einem zweiten TNF-Hemmer. Ein zweiter TNF-Hemmer bleibt aber laut EULAR und S3-Leitlinie erlaubt, etwa bei Risikopatienten für JAK-Inhibitoren.
+
+Fünftens, Herpes zoster: Vor JAK-Inhibitoren an die Impfung mit dem Totimpfstoff denken.
+
+Sechstens, Lunge: Bei Husten, Belastungsdyspnoe oder Knisterrasseln frühzeitig an eine interstitielle Lungenerkrankung denken und die Pneumologie einbinden. In der Studie ANCHOR-RA, vorgestellt beim EULAR 2026, fand sich bei Patienten mit Risikofaktoren in 9 Prozent eine bisher unbekannte Lungenbeteiligung.
+
+Siebtens, Remission: Reduzieren ja, absetzen nein. Erst Steroide weg, dann Basistherapie schrittweise reduzieren.
+
+Achtens, Rezept: Wenn ein Patient auf einem bestimmten Biologikum gut eingestellt ist und ein Wechsel medizinisch problematisch wäre, das Aut-idem-Kreuz setzen und den Grund dokumentieren. Und die Patienten vorab informieren, dass sich Pen und Packung ändern können.
+
+Ausblick.
+
+Was kommt als Nächstes?
+
+Von SELECT-SWITCH erwarten wir die 48-Wochen-Daten. Die gepoolten Daten zu Baricitinib aus RA-BRIDGE und RA-BRANCH sollen vollständig publiziert werden. Erst dann lässt sich beurteilen, ob sich die Sicherheitsbewertung einzelner JAK-Inhibitoren unterscheidet.
+
+Spannend bleibt die Prävention. In der britischen Studie APIPPRA, Lancet 2024, verzögerte 1 Jahr Abatacept bei ACPA-positiven Patienten mit Gelenkschmerzen den Übergang in eine RA. Nach 12 Monaten entwickelten 6 Prozent unter Abatacept gegen 29 Prozent unter Placebo eine Arthritis. Die Langzeitstudie ALTO, Lancet Rheumatology 2026, zeigt: Nach etwa 4 Jahren schrumpft der Unterschied auf 48 gegen 56 Prozent. Das war eine Phase-2b-Studie. Abatacept ist für diese Indikation nicht zugelassen, es wäre Off-Label. Eine Studie mit Baricitinib bei Risikopersonen, ExIST, läuft noch.
+
+Neue Wirkprinzipien sind früher in der Entwicklung. Der PD-1-Agonist Rosnilimab zeigte beim ACR-Kongress 2025 in einer Phase-2b-Studie Wirksamkeit, das ist vorläufig. Zu T-Zell-Engagern und CAR-T-Zellen bei therapierefraktärer RA kommt eine eigene Folge in Block 25.
+
+Merksätze.
+
+Zum Schluss die Merksätze zum Mitnehmen.
+
+Eins: Seit August 2026 gilt die neue deutsche S3-Leitlinie. Ziel ist die anhaltende Remission, gemessen mit strengen Kriterien.
+
+Zwei: Glukokortikoide nur als Brücke: höchstens 30 Milligramm zum Start, nach 8 Wochen niedrig dosiert, nach 3 Monaten beendet.
+
+Drei: Kontrolle nach 3 und nach 6 Monaten. Wer nach Methotrexat das Ziel verfehlt, bekommt in der Regel ein Biologikum, alternativ nach Risikoabwägung einen JAK-Inhibitor. Eine Einteilung nach Prognosefaktoren entfällt bei EULAR.
+
+Vier: JAK-Inhibitoren verdoppeln etwa das Thromboserisiko gegenüber TNF-Hemmern. Nach TNF-Versagen war Upadacitinib in SELECT-SWITCH wirksamer als Adalimumab.
+
+Fünf: In Remission reduzieren, nicht absetzen. Und seit April 2026 gilt der Biosimilar-Austausch in der Apotheke, ausschließbar nur mit medizinisch begründetem Aut-idem-Kreuz.
+
+Alle Quellen mit Links finden Sie in den Shownotes. Dieser Podcast ist eine KI-gestützte Zusammenfassung zur Fortbildung und ersetzt weder Fachinformation noch Leitlinie im Original. Das nächste Update zu diesem Thema kommt im ersten Quartal 2027. Nächste Woche geht es um das VEXAS-Syndrom und den adulten Morbus Still. Gute Fahrt und einen guten Tag in der Praxis.
