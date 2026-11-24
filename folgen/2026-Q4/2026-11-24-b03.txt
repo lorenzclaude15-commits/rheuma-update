@@ -1,0 +1,101 @@
+Rheuma-Update. Themenfolge, Stand viertes Quartal 2026: VEXAS-Syndrom und adulter Morbus Still.
+
+Guten Morgen und willkommen zum Rheuma-Update. Heute geht es um zwei hochinflammatorische Krankheitsbilder, die sich in der Sprechstunde erstaunlich ähnlich präsentieren können: das VEXAS-Syndrom und den adulten Morbus Still, heute meist einfach Still-Erkrankung genannt.
+
+Drei Dinge vorweg, die Sie sich heute merken sollten.
+
+Erstens: Für VEXAS gibt es seit August 2025 die erste offizielle Handlungsempfehlung, ein Guidance Statement des American College of Rheumatology, kurz ACR. Kernbotschaft: Bei älteren Männern mit therapieresistenter Entzündung, Haut-, Knorpel- oder Lungenbeteiligung und Zytopenie an UBA1 denken und gezielt testen. JAK-Inhibitoren und IL-6-Hemmer wirken besser als klassische Basistherapeutika.
+
+Zweitens: Für die Still-Erkrankung gelten seit Herbst 2024 die gemeinsamen EULAR- und PReS-Empfehlungen. Sie erklären die systemische juvenile idiopathische Arthritis und den adulten Morbus Still zu einer einzigen Krankheit und geben erstmals ein Treat-to-Target-Schema mit festen Zeitpunkten vor: Tag 7, Woche 4, Monat 3 und Monat 6.
+
+Drittens: Bei der gefährlichsten Komplikation, dem Makrophagenaktivierungssyndrom, gibt es mit Emapalumab seit Juni 2025 in den USA die erste zugelassene gezielte Therapie. In der EU ist Emapalumab weiterhin nicht zugelassen.
+
+Schauen wir uns das der Reihe nach an.
+
+Leitlinienstand.
+
+Beginnen wir mit dem VEXAS-Syndrom. Der Name steht für Vakuolen, E1-Enzym, X-chromosomal, autoinflammatorisch und somatisch. Ursache ist eine erworbene, also nicht vererbte Mutation im Gen UBA1 in blutbildenden Stammzellen. Beschrieben wurde das Syndrom 2020 im New England Journal of Medicine. Eine Auswertung aus dem JAMA 2023 schätzt, dass etwa 1 von 4.269 Männern über 50 Jahren betroffen ist. Das ist also keine Rarität, die man nie sieht.
+
+Die ACR-Handlungsempfehlung 2025, erarbeitet von der International VEXAS Working Group und publiziert in Arthritis and Rheumatology, ist ausdrücklich ein Guidance Statement auf Basis von Expertenkonsens, keine evidenzbasierte Leitlinie. Eine deutsche AWMF-Leitlinie und EULAR-Empfehlungen zu VEXAS gibt es bisher nicht.
+
+Was sagt das Dokument? Erstens zur Klinik: VEXAS ist eine hämato-inflammatorische Erkrankung. Verdächtig sind dauerhaft erhöhte Entzündungswerte zusammen mit Haut-, Augen-, Lungen- oder Knorpelbeteiligung und oder Zytopenien. Eine makrozytäre Anämie ist häufig, aber nicht obligat. Vakuolen in frühen myeloischen und erythroiden Vorläuferzellen sind verdächtig, aber nicht beweisend. Typisch sind Männer über 50.
+
+Zweitens zur Genetik: Die meisten Fälle tragen Missense- oder Spleißmutationen in Exon 3 von UBA1. Die Sequenzierung der nächsten Generation ist am sensitivsten. Eine gezielte Exon-3-Testung ist möglich, kann aber Varianten mit niedriger Allelfrequenz oder außerhalb von Exon 3 übersehen. Wichtig für die Praxis: Eine laufende Therapie kann die Mutationslast senken. Bei hohem Verdacht und negativem Blutbefund soll das ganze Gen abgedeckt und Knochenmark untersucht werden.
+
+Drittens zur Hämatologie: Bei Zytopenie gehört eine Knochenmarkpunktion mit Karyotyp und Mutationsanalyse dazu, um ein myelodysplastisches Syndrom, kurz MDS, abzugrenzen. Ein Drittel bis die Hälfte der Patienten hat ein begleitendes MDS.
+
+Viertens zur Therapie: Glukokortikoide sind fast immer nötig und sollen langsam auf die niedrigste wirksame Dosis reduziert werden. JAK-Inhibitoren und IL-6-Inhibitoren wirken besser als Methotrexat, Azathioprin oder Rituximab. Azacitidin kann bei manchen Patienten wirksam sein. Die allogene Stammzelltransplantation ist potenziell kurativ, bleibt aber ausgewählten Patienten nach hämatologischer Abklärung vorbehalten. Für alle Patienten sollen Prophylaxe opportunistischer Infektionen, Thromboseprävention und die Begrenzung von Steroidschäden erwogen werden. Konkrete Substanzen oder Dosierungen für die Prophylaxe nennt das Dokument nicht.
+
+Wechseln wir zur Still-Erkrankung. Die EULAR- und PReS-Empfehlungen 2024, Erstautor Bruno Fautrel, Letztautor Fabrizio De Benedetti, erschienen in den Annals of the Rheumatic Diseases. PReS ist die europäische Gesellschaft für Kinderrheumatologie. Vier übergeordnete Prinzipien und 14 Empfehlungen, alle mit über 80 Prozent Zustimmung.
+
+Das erste Prinzip ist konzeptionell wichtig: Systemische juvenile idiopathische Arthritis und adulter Morbus Still sind dieselbe Krankheit, nur mit unterschiedlichem Erkrankungsalter. Ziel ist Treat-to-Target, Endziel die medikamentenfreie Remission.
+
+Diagnostisch: Fieber ab 39 Grad über mindestens 7 Tage, flüchtiges lachsfarbenes Exanthem, Arthralgien oder Myalgien, hohe Entzündungswerte einschließlich Ferritin. Eine Arthritis ist nicht zwingend. Stark erhöhtes Interleukin 18 oder S100-Proteine wie Calprotectin stützen die Diagnose. Beim Erwachsenen sollen Malignome, Infektionen und ausdrücklich auch VEXAS ausgeschlossen werden.
+
+Die Zwischenziele sind konkret: An Tag 7 kein Fieber mehr und das CRP um mehr als die Hälfte gesenkt. In Woche 4 fieberfrei, normales CRP, aktive Gelenke mindestens halbiert. Nach 3 Monaten klinisch inaktive Erkrankung mit weniger als 0,1 Milligramm Prednisolon pro Kilogramm und Tag beim Erwachsenen. Nach 6 Monaten inaktive Erkrankung ganz ohne Glukokortikoide.
+
+Therapeutisch: IL-1- oder IL-6-Inhibitoren früh einsetzen, möglichst innerhalb der ersten 3 Monate nach Symptombeginn, um lange Steroidtherapie zu vermeiden. Steroidabhängigkeit bedeutet Therapieeskalation, nicht Steroidfortführung. NSAR nur zur Symptomkontrolle während der Abklärung. Konventionelle Basistherapeutika sind schwach belegt.
+
+Und die deutsche Sicht? Die S2e-Leitlinie der DGRh zur Diagnostik und Therapie des adulten Still-Syndroms, AWMF-Register 060-011, Stand November 2023, betont ebenfalls die Einheit mit dem kindlichen Still-Syndrom. Ferritin ab dem 5-fachen der Norm und, wo verfügbar, ein glykosylierter Ferritinanteil unter 20 Prozent stützen die Diagnose. Der Unterschied zur EULAR: Die deutsche Leitlinie lässt Methotrexat oder Ciclosporin A bei geringerer Aktivität noch als steroidsparende Option zu und setzt Anakinra, Canakinumab oder Tocilizumab bei höherer Aktivität oder unzureichendem Ansprechen ein. IL-1-Blocker sind auch ohne vorheriges csDMARD möglich. EULAR ist hier deutlich biologikafreundlicher und früher.
+
+Neue Studien und Zulassungen.
+
+Zuerst VEXAS. Randomisierte Studien gibt es bisher keine, alle Daten sind retrospektiv. Und alle Therapien bei VEXAS sind in Deutschland Off-Label. Das muss man so klar sagen.
+
+Die größte Auswertung zu zielgerichteten Therapien kommt aus dem französischen Register FRENVEX, publiziert von Hadjadj und Kollegen in den Annals of the Rheumatic Diseases 2024. 110 Patienten, medianes Alter 71 Jahre. Komplettes oder partielles Ansprechen nach 3 Monaten: JAK-Inhibitoren 24 Prozent, IL-6-Inhibitoren 32 Prozent, IL-1-Inhibitoren 9 Prozent, TNF-Blocker 0 Prozent. Am längsten wurden JAK-Inhibitoren durchgehalten, im Median 7,3 Monate, IL-1-Hemmer dagegen nur 1,1 Monate. Kurz gesagt: TNF- und IL-1-Blockade lohnen sich bei VEXAS kaum.
+
+Neu und wichtig ist Azacitidin. Wieder aus FRENVEX, diesmal im Journal Blood 2025: 88 Patienten mit gesichertem VEXAS, 80 Prozent erfüllten auch MDS-Kriterien. Ein entzündliches Ansprechen erreichten 41 Prozent nach 6 Monaten und 54 Prozent nach 12 Monaten. Responder blieben zu 85 Prozent über 5 Jahre rezidivfrei. Transfusionsunabhängigkeit erreichten 65 Prozent. Die Mutationslast sank bei 65 Prozent um mindestens ein Viertel. Der Preis: Infektionen bei 34 Prozent und Zytopenien bei 36 Prozent, vor allem in den ersten 3 Zyklen.
+
+Eine Metaanalyse in den Annals of Hematology 2025 mit 16 Studien und 367 Patienten bestätigt das Bild. Komplettes Ansprechen unter Azacitidin 67 Prozent, unter JAK-Inhibitoren 42 Prozent, unter IL-6-Hemmern 24 Prozent, unter IL-1-Hemmern 13 Prozent. Achtung: Das sind gepoolte Beobachtungsdaten mit unterschiedlichen Definitionen und vermutlich unterschiedlichen Patienten, kein direkter Vergleich. Bei den JAK-Inhibitoren dominiert Ruxolitinib.
+
+Zur allogenen Stammzelltransplantation liegt eine multizentrische Auswertung der Europäischen Gesellschaft für Blut- und Knochenmarktransplantation in Blood Advances 2024 vor. Sie zeigt, dass Heilung möglich ist, aber transplantationsbedingte Komplikationen relevant sind. Deshalb die Zurückhaltung in der ACR-Empfehlung.
+
+Nun zur Still-Erkrankung. Zugelassen sind in der EU Anakinra seit 2018 für die Still-Erkrankung bei Kindern und Erwachsenen, und Canakinumab, ebenfalls für den adulten Morbus Still. Tocilizumab ist beim Erwachsenen in der EU Off-Label.
+
+Eine Netzwerk-Metaanalyse in Rheumatology, also dem Oxford-Journal, Jahrgang 2025, hat 9 randomisierte Studien mit 430 Patienten ausgewertet. Alle Biologika, also Anakinra, Canakinumab, Rilonacept und Tocilizumab, waren beim ACR-50-Ansprechen besser als Placebo, ohne mehr schwere Nebenwirkungen. Untereinander gab es keinen signifikanten Unterschied. Anakinra lag in der Rangfolge vorn, sowohl bei Wirksamkeit als auch bei Sicherheit. Das passt zur EULAR, die Anakinra das günstigste Sicherheitsprofil zuschreibt.
+
+Die eigentliche Neuigkeit betrifft das Makrophagenaktivierungssyndrom, kurz MAS, das bei 15 bis 20 Prozent der Still-Patienten auftritt. Emapalumab, ein Antikörper gegen Interferon gamma, wurde im Juni 2025 von der amerikanischen FDA zugelassen, für MAS bei Still-Erkrankung mit unzureichendem Steroidansprechen oder Rezidiv. Grundlage ist eine gepoolte Analyse zweier einarmiger Studien mit 39 Patienten, darunter die Phase-III-Studie EMERALD, vorgestellt beim ACR-Kongress 2024. Komplette Remission in Woche 8 bei 54 Prozent, irgendwann im Verlauf bei 85 Prozent. 95 Prozent lebten in Woche 8. Die Steroiddosis sank von im Mittel 9,7 auf 0,8 Milligramm pro Kilogramm und Tag. Häufigste Nebenwirkungen waren Virusinfektionen einschließlich CMV-Reaktivierung. Wichtig: Es gab keinen Kontrollarm, und die Daten sind als Kongressabstract nicht vollständig peer-reviewt.
+
+Zum EU-Status: Die EMA hat Emapalumab 2021 abgelehnt, damals für die primäre hämophagozytische Lymphohistiozytose bei Kindern. Einen EU-Antrag für MAS habe ich in den geprüften Quellen nicht gefunden. In Deutschland bleibt Emapalumab also ein Einzelfall über Import, typischerweise im Zentrum.
+
+Eine G-BA-Nutzenbewertung gibt es für beide Themen im betrachteten Zeitraum nicht. In der Zeitschrift für Rheumatologie habe ich keine neuen Phase-III-Daten zu beiden Erkrankungen gefunden. Die deutsche AOSD-Leitlinie bleibt dort die Referenz.
+
+Was ändert sich in der Sprechstunde?.
+
+Erstens: VEXAS aktiv suchen. Der typische Patient ist ein Mann über 60 mit Fieber, Hautinfiltraten, rezidivierender Polychondritis, Lungeninfiltraten oder Thrombosen, hoher Steroidabhängigkeit und makrozytärer Anämie. Auch hinter einer vermeintlichen Polymyalgia rheumatica, einer Riesenzellarteriitis oder einer Sweet-Dermatose kann VEXAS stecken. Ein Blutbild mit MCV und Thrombozyten ist der einfachste Hinweis.
+
+Zweitens: Bei VEXAS-Verdacht die UBA1-Testung möglichst vor einer Therapieeskalation veranlassen und das Labor nach der Methode fragen. Ein negativer Exon-3-Test im Blut schließt VEXAS bei hohem Verdacht nicht aus.
+
+Drittens: VEXAS ist ein Fall für das Tandem Rheumatologie und Hämatologie. Bei Zytopenie gehört die Knochenmarkpunktion dazu. Bei begleitendem MDS ist Azacitidin früh eine Option, bei jüngeren, fitten Patienten die Transplantation.
+
+Viertens: Bei VEXAS auf TNF- und IL-1-Blocker als erste Wahl verzichten. Wenn ein Biologikum oder JAK-Inhibitor, dann eher Ruxolitinib oder Tocilizumab, beides Off-Label, also mit Kostenübernahmeantrag. Unter JAK-Inhibitoren das hohe Thromboserisiko dieser ohnehin thrombosegefährdeten Patienten bedenken. Pneumocystis-Prophylaxe, Thromboseprävention und Knochenschutz mitdenken.
+
+Fünftens: Beim adulten Morbus Still nicht monatelang mit Prednisolon und Methotrexat arbeiten. Nach EULAR soll die IL-1- oder IL-6-Blockade innerhalb der ersten 3 Monate stehen. In Deutschland ist Anakinra oder Canakinumab die zugelassene Wahl. Die Zielmarken Tag 7, Woche 4, Monat 3 und Monat 6 eignen sich gut für die Dokumentation.
+
+Sechstens: Ferritin ist der Verlaufsmarker für ein drohendes MAS. Bei Verdacht täglich, eventuell zweimal täglich messen, dazu Blutbild, Leberwerte, Fibrinogen und Triglyzeride. Achtung: Unter Canakinumab oder Tocilizumab können Fieber und Ferritinanstieg abgeschwächt sein. MAS ist ein Notfall: hochdosiertes Methylprednisolon, Anakinra in höherer Dosis, gegebenenfalls Ciclosporin, und frühe Rücksprache mit einem Zentrum.
+
+Siebtens: Lunge im Blick behalten. Bei Still-Patienten Symptome, Sauerstoffsättigung und Diffusionskapazität kontrollieren, bei Verdacht ein hochauflösendes CT. Lungenrisiken sind laut EULAR keine Kontraindikation für IL-1- oder IL-6-Hemmer.
+
+Und achtens zur Deeskalation: Erst die Steroide absetzen. Dann das Biologikum frühestens nach 3 bis 6 Monaten steroidfreier Inaktivität ausschleichen, am besten durch Intervallverlängerung.
+
+Ausblick.
+
+Bei VEXAS bewegt sich jetzt endlich die kontrollierte Forschung. Novartis rekrutiert für die Studie VEX-AR, eine randomisierte, doppelblinde, placebokontrollierte Phase-II-Studie mit Arumakimig, Entwicklungsname MAS825, bei 120 Patienten über 52 Wochen. MAS825 ist ein bispezifischer Antikörper gegen IL-1 beta und IL-18. Außerdem läuft in den USA die Studie PAXIS mit dem JAK-2-Inhibitor Pacritinib, zu der ich keine Details abrufen konnte, und am NIH eine Phase-II-Studie zur allogenen Transplantation. Eine Phase-III-Studie zu VEXAS gibt es bisher nicht.
+
+Bei der Still-Erkrankung testet Novartis denselben Antikörper MAS825 in einer offenen, einarmigen Phase-II-Studie bei 30 Kindern und Erwachsenen mit unzureichendem Ansprechen auf IL-1- oder IL-6-Blockade, auch mit Lungenbeteiligung oder MAS. Drei Zentren liegen in Deutschland. Ergebnisse werden nicht vor 2028 erwartet.
+
+Offen bleibt die Frage nach einer europäischen Zulassung von Emapalumab beim MAS. Sollte sich hier etwas tun, berichte ich im Update.
+
+Merksätze.
+
+Erstens: VEXAS ist eine erworbene UBA1-Mutation. Bei älteren Männern mit therapieresistenter Entzündung und makrozytärer Anämie testen.
+
+Zweitens: Negativer Exon-3-Test bei hohem Verdacht reicht nicht. Ganzes Gen und Knochenmark.
+
+Drittens: Bei VEXAS wirken JAK-Inhibitoren, vor allem Ruxolitinib, und IL-6-Hemmer besser als TNF- oder IL-1-Blocker. Azacitidin wirkt besonders bei begleitendem MDS. Alles Off-Label.
+
+Viertens: Still-Erkrankung im Kindes- und Erwachsenenalter ist eine Krankheit. IL-1- oder IL-6-Blockade innerhalb von 3 Monaten, Ziel steroidfreie Remission nach 6 Monaten.
+
+Fünftens: Ferritin engmaschig, MAS ist ein Notfall. Emapalumab ist in den USA zugelassen, in der EU nicht.
+
+Alle Quellen mit Links finden Sie in den Shownotes. Dieser Podcast ist eine KI-gestützte Zusammenfassung zur Fortbildung und ersetzt weder Fachinformation noch Leitlinie im Original. Das nächste Update zu diesem Thema kommt im ersten Quartal 2027. Am Donnerstag geht es um den systemischen Lupus erythematodes. Gute Fahrt und einen guten Tag in der Praxis.
