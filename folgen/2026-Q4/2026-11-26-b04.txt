@@ -1,0 +1,91 @@
+Rheuma-Update. Themenfolge, Stand viertes Quartal 2026: Systemischer Lupus erythematodes.
+
+Guten Morgen und willkommen zum Rheuma-Update. Heute geht es um den systemischen Lupus erythematodes, kurz SLE. Selten war in so kurzer Zeit so viel Bewegung in diesem Feld: eine neue deutsche S3-Leitlinie, die erste ACR-Leitlinie zum nicht-renalen Lupus seit über 20 Jahren und mehrere neue Phase-III-Daten.
+
+Drei Dinge vorweg, die Sie sich heute merken sollten.
+
+Erstens: Es gibt seit 2025 eine deutsche S3-Leitlinie zum Management des SLE unter Federführung der Deutschen Gesellschaft für Rheumatologie, kurz DGRh. Sie übernimmt die Kernbotschaften der EULAR-Empfehlungen 2023: Hydroxychloroquin für alle, Glukokortikoide auf höchstens 5 Milligramm Prednisolon-Äquivalent senken und möglichst absetzen, und frühzeitig Immunsuppressiva oder Biologika einsetzen. Die neue ACR-Leitlinie von November 2025 sagt im Kern dasselbe und setzt für die Reduktion auf 5 Milligramm eine Frist von 6 Monaten.
+
+Zweitens: Die B-Zell-Depletion mit Obinutuzumab kommt im Lupus an. Für die Lupusnephritis ist Obinutuzumab seit Dezember 2025 in der EU zugelassen. Für den SLE ohne Nierenbeteiligung hat der Ausschuss für Humanarzneimittel der Europäischen Arzneimittel-Agentur, kurz CHMP, im November 2026 eine positive Empfehlung abgegeben. Grundlage ist die ALLEGORY-Studie, NEJM 2026.
+
+Drittens: Anifrolumab gibt es seit Dezember 2025 in der EU auch als Fertigpen zur wöchentlichen Selbstinjektion. Und gestern, am 25. November, hat Bristol Myers Squibb gemischte Phase-III-Ergebnisse für Deucravacitinib gemeldet: eine Studie positiv, eine negativ.
+
+Leitlinienstand
+
+Beginnen wir mit dem Leitlinienstand. Für Deutschland maßgeblich ist jetzt die S3-Leitlinie Management des systemischen Lupus erythematodes, inklusive sekundärem Antiphospholipid-Syndrom, Kinderwunsch und Schwangerschaft. AWMF-Registernummer 060 Strich 008, federführend die DGRh, beteiligt sind unter anderem Nephrologie, Neurologie, Kardiologie, Dermatologie, Hämostaseologie, Pädiatrie und zwei Patientenorganisationen. Die DGRh hat sie im April 2025 vorgestellt, die aktuelle Fassung im Register trägt den Stand Juni 2025. Methodisch adaptiert sie weitgehend die EULAR-Empfehlungen 2023, ergänzt aber eigene Empfehlungen, etwa zu Haut, Fatigue, kardiovaskulärem Risiko und Impfungen.
+
+Die wichtigsten Punkte im Wortlaut der Leitlinie. Hydroxychloroquin soll bei allen Patientinnen ab Diagnosestellung eingesetzt werden. Angestrebt wird eine Dosis von 5 Milligramm pro Kilogramm Körpergewicht und Tag. Augenärztliche Kontrollen erfolgen initial innerhalb der ersten 6 Monate und nach 5 Jahren jährlich, meist mit optischer Kohärenztomografie. Bei Niereninsuffizienz, vorbestehender Makulopathie, Tamoxifen oder höherer Dosis jährlich von Beginn an.
+
+Glukokortikoide sollen nach Organmanifestation dosiert und so schnell wie möglich auf eine Erhaltungsdosis von höchstens 5 Milligramm Prednisolon-Äquivalent pro Tag reduziert, besser ganz abgesetzt werden. Bei schweren Schüben können Methylprednisolon-Stöße von 125 bis 1000 Milligramm über 1 bis 3 Tage erwogen werden.
+
+Ist die Erkrankung unter Hydroxychloroquin und maximal 5 Milligramm Prednisolon nicht kontrolliert, soll eine zusätzliche Therapie beginnen: Azathioprin, Methotrexat, Mycophenolat oder die Biologika Belimumab oder Anifrolumab. Wichtig: Die Leitlinie stellt die Biologika gleichberechtigt neben die konventionellen Immunsuppressiva. Ein vorheriger Versuch mit einem konventionellen Mittel ist nicht zwingend. Bei akut organ- oder lebensbedrohlichen Manifestationen außerhalb der Niere sollte intravenöses Cyclophosphamid gegeben werden, in refraktären Fällen eine B-Zell-depletierende Therapie. Hier geht die deutsche Leitlinie über EULAR hinaus: EULAR nennt nur Rituximab, die S3-Leitlinie spricht allgemein von B-Zell-Depletion und diskutiert auch Obinutuzumab und CAR-T-Zellen. Rituximab ist beim SLE off-label.
+
+Zum Therapieziel: Remission nach DORIS-Definition, also klinischer SLEDAI von 0, Arztglobalurteil unter 0,5 und Prednisolon höchstens 5 Milligramm, oder zumindest niedrige Krankheitsaktivität. Bei anhaltender Remission wird schrittweise ausgeschlichen, beginnend mit den Glukokortikoiden.
+
+Beim sekundären Antiphospholipid-Syndrom ist die Leitlinie deutlich: Direkte orale Antikoagulanzien sollten beim thromboembolischen APS, besonders beim Hochrisikoprofil, nicht verwendet werden, beim arteriellen APS sollen sie nicht verwendet werden. Standard bleibt der Vitamin-K-Antagonist mit Ziel-INR 2 bis 3. In der Schwangerschaft soll Hydroxychloroquin fortgeführt werden, und alle Schwangeren mit SLE sollten niedrig dosiertes Aspirin erhalten.
+
+Und die ACR-Leitlinie? Das American College of Rheumatology hat am 3. November 2025 seine Leitlinie zur Behandlung des SLE veröffentlicht, erschienen in Arthritis Care and Research und Arthritis and Rheumatology. Sie gilt für Kinder und Erwachsene, die Lupusnephritis ist in einer eigenen ACR-Leitlinie von 2024 geregelt. Die drei Kernbotschaften: Hydroxychloroquin für alle, eine starke Empfehlung. Prednison bei stabiler Erkrankung innerhalb von 6 Monaten auf höchstens 5 Milligramm senken, idealerweise auf null, ebenfalls eine starke Empfehlung. Und frühe Einführung konventioneller oder biologischer Immunsuppressiva. Für Hydroxychloroquin empfiehlt das ACR eine durchschnittliche Langzeitdosis von höchstens 5 Milligramm pro Kilogramm, erlaubt aber vorübergehend 5 bis 6,5 Milligramm pro Kilogramm zu Beginn oder zur Krankheitskontrolle. Bei anhaltender Arthritis empfiehlt das ACR zunächst Methotrexat, Mycophenolat oder Azathioprin, mit niedriger Schwelle für Belimumab oder Anifrolumab. Bei kutanem Lupus, der auf topische Therapie und Antimalariamittel nicht anspricht, kommen Methotrexat, Mycophenolat, Anifrolumab oder Belimumab infrage.
+
+Zwei ACR-Empfehlungen gegen eine Therapie sind praxisnah: Eine asymptomatische Leuko- oder Lymphopenie allein soll keine Immunsuppression auslösen. Und eine isolierte kognitive Störung ebenfalls nicht, auch keine Glukokortikoide. Außerdem schlägt das ACR vor, nach 3 bis 5 Jahren stabiler Remission ein Ausschleichen der Immunsuppression mit dem Ziel des Absetzens zu prüfen. Hydroxychloroquin dagegen soll dauerhaft weiterlaufen.
+
+Unterm Strich: Deutschland, Europa und die USA sind sich in den Grundzügen einig. Unterschiede liegen im Detail, etwa bei der Frist für die Steroidreduktion und beim Umgang mit B-Zell-Depletion.
+
+Neue Studien und Zulassungen
+
+Kommen wir zu den neuen Studien und Zulassungen.
+
+Erstens Obinutuzumab, ein humanisierter Anti-CD20-Antikörper mit stärkerer B-Zell-Depletion als Rituximab. In der REGENCY-Studie bei aktiver Lupusnephritis Klasse 3 oder 4, NEJM 2025, erreichten nach 76 Wochen 46,4 Prozent unter Obinutuzumab plus Mycophenolat und Glukokortikoiden eine komplette renale Remission, gegenüber 33,1 Prozent unter Standardtherapie allein. Die Europäische Kommission hat Obinutuzumab im Dezember 2025 für diese Indikation zugelassen, in Kombination mit Mycophenolat. Die Lupusnephritis behandeln wir ausführlich in einer eigenen Folge.
+
+Neu ist der SLE ohne Nierenbeteiligung. In der Phase-III-Studie ALLEGORY, NEJM 2026, wurden 303 Erwachsene mit aktivem, autoantikörperpositivem SLE trotz Standardtherapie 1 zu 1 randomisiert. Primärer Endpunkt war das SRI-4-Ansprechen nach 52 Wochen, also der SLE Responder Index mit mindestens 4 Punkten Verbesserung im SLEDAI. Ergebnis: 76,7 Prozent unter Obinutuzumab gegenüber 53,5 Prozent unter Placebo, Differenz 23,1 Prozentpunkte, 95-Prozent-Konfidenzintervall 12,5 bis 33,6. Auch die Sekundärendpunkte waren klar positiv. Das BICLA-Ansprechen, also das BILAG-basierte zusammengesetzte Ansprechen, lag bei 62,0 gegenüber 40,1 Prozent. Eine Steroidreduktion auf höchstens 7,5 Milligramm gelang 80,0 gegenüber 54,1 Prozent. Das Schubrisiko sank um 42 Prozent, Hazard Ratio 0,58. DORIS-Remission nach 52 Wochen erreichten 33,8 gegenüber 13,8 Prozent. Häufigste Nebenwirkungen waren Infekte der oberen Atemwege und Harnwegsinfekte. Der CHMP hat im November 2026 die Erweiterung der Zulassung auf den SLE empfohlen. Die Entscheidung der Europäischen Kommission steht noch aus. Bis dahin ist Obinutuzumab beim SLE ohne Nephritis off-label.
+
+Zweitens Anifrolumab, der Antikörper gegen den Typ-1-Interferon-Rezeptor. In der Phase-III-Studie TULIP-SC, Arthritis and Rheumatology 2025, wurden 120 Milligramm einmal wöchentlich subkutan gegen Placebo getestet. In der Zwischenauswertung der ersten 220 Patientinnen erreichten 59,4 Prozent ein BICLA-Ansprechen nach 52 Wochen, gegenüber 43,9 Prozent unter Placebo, Differenz 15,5 Prozentpunkte, Konfidenzintervall 2,3 bis 28,6. In der Gesamtauswertung mit 367 Patientinnen erreichten 29,0 gegenüber 14,7 Prozent eine DORIS-Remission. Herpes zoster trat bei 3,8 gegenüber 1,1 Prozent auf, schwere unerwünschte Ereignisse waren mit 11,9 gegenüber 10,4 Prozent ähnlich. Im Dezember 2025 hat die EU den Fertigpen zur Selbstinjektion zugelassen. Für die Praxis heißt das: Anifrolumab muss nicht mehr alle 4 Wochen in der Infusionsambulanz gegeben werden. Die Zoster-Impfung mit dem rekombinanten Totimpfstoff vor Therapiebeginn bleibt sinnvoll.
+
+Drittens Dapirolizumab pegol, ein Hemmer des CD40-Liganden. Die Phase-III-Studie PHOENYCS GO wurde im Mai 2026 im Lancet publiziert. 321 Patientinnen erhielten 24 Milligramm pro Kilogramm intravenös alle 4 Wochen oder Placebo. Das BICLA-Ansprechen nach 48 Wochen lag bei 50 gegenüber 35 Prozent, Differenz 14,6 Prozentpunkte, Konfidenzintervall 3,3 bis 25,8, p gleich 0,011. Der erste wichtige Sekundärendpunkt, BICLA nach 24 Wochen, wurde allerdings verfehlt. Die Studie war wegen langsamer Rekrutierung kleiner als geplant. Eine zweite Phase-III-Studie, PHOENYCS FLY, läuft. Dapirolizumab ist nicht zugelassen.
+
+Viertens Deucravacitinib, ein oraler TYK2-Hemmer, in der EU für Psoriasis zugelassen. Am 25. November 2026 meldete der Hersteller die Ergebnisse der beiden Phase-III-Studien POETYK SLE-1 und SLE-2 mit je rund 500 Patientinnen und 3 Milligramm zweimal täglich. SLE-1 hat den primären Endpunkt SRI-4 nach 52 Wochen erreicht, SLE-2 hat ihn wegen einer hohen Placeboantwort verfehlt. Zahlen gibt es noch keine, nur die Mitteilung des Herstellers. Wie es regulatorisch weitergeht, ist offen. Das ist ein Signal, aber noch kein Durchbruch.
+
+Fünftens, kurz: Real-World-Daten zu Anifrolumab aus der ASTER-Beobachtungsstudie, vorgestellt auf dem EULAR-Kongress 2026. Bei 135 Patientinnen erreichten nach 12 Monaten 74,1 Prozent eine niedrige Krankheitsaktivität. Das ist nicht randomisiert, aber es passt zu den Studiendaten.
+
+Was ändert sich in der Sprechstunde?
+
+Was ändert sich in der Sprechstunde?
+
+Erstens: Prüfen Sie bei jeder Lupuspatientin die Prednisolondosis. Wer nach 6 Monaten stabiler Erkrankung noch über 5 Milligramm braucht, ist nach deutscher und amerikanischer Leitlinie untertherapiert. Dann wird eskaliert, nicht abgewartet.
+
+Zweitens: Hydroxychloroquin nach Körpergewicht dosieren, Zielwert 5 Milligramm pro Kilogramm. Bei 60 Kilogramm sind das etwa 300 Milligramm täglich. Bei einer GFR unter 30 Milliliter pro Minute die Dosis halbieren. Und die Augenkontrollen einplanen: Basisuntersuchung im ersten halben Jahr, ab dem fünften Jahr jährlich.
+
+Drittens: Belimumab und Anifrolumab sind keine Reservemedikamente mehr. Die S3-Leitlinie verlangt keinen vorherigen Versuch mit Methotrexat oder Azathioprin. Bei Haut- und Gelenkbefall mit hoher Interferonsignatur spricht vieles für Anifrolumab, das jetzt auch als Pen verfügbar ist. Bei Nierenbeteiligung oder Nephritis-Risiko spricht vieles für Belimumab, das für den SLE und die Lupusnephritis zugelassen ist.
+
+Viertens: Bei refraktärem, organbedrohendem Verlauf an B-Zell-Depletion denken. Rituximab ist off-label. Obinutuzumab ist bei der Lupusnephritis zugelassen und beim SLE auf dem Weg.
+
+Fünftens: Beim Antiphospholipid-Syndrom mit Thrombose keine DOAKs, sondern Vitamin-K-Antagonisten. Das gilt insbesondere bei arteriellen Ereignissen und bei Triple-Positivität.
+
+Sechstens: Nicht alles behandeln, was im Labor auffällt. Eine asymptomatische Lymphopenie oder eine isolierte kognitive Störung ist kein Grund für eine Immunsuppression.
+
+Siebtens: Krankheitsaktivität bei jedem Termin strukturiert erfassen, etwa mit dem SLEDAI, und mindestens einmal jährlich den Organschaden mit dem SLICC-Schadensindex dokumentieren. Das empfiehlt das ACR ausdrücklich. Vor jeder Immunsuppression nach ACR auf Hepatitis B und Hepatitis C testen, vor Biologika zusätzlich auf Tuberkulose und HIV.
+
+Achtens: Den Kinderwunsch früh ansprechen. Eine Schwangerschaft sollte in einer stabilen Krankheitsphase geplant werden. Mycophenolat, Cyclophosphamid und Methotrexat sollten in der Schwangerschaft vermieden und rechtzeitig umgestellt werden. Hydroxychloroquin läuft weiter. Azathioprin, Ciclosporin und Tacrolimus sind in der Schwangerschaft möglich, Belimumab und Rituximab nach sorgfältiger Abwägung.
+
+Ausblick
+
+Ein Blick nach vorn. Bei Obinutuzumab erwarten wir in den nächsten Monaten die Entscheidung der Europäischen Kommission für den SLE. Danach folgt in Deutschland die Nutzenbewertung durch den Gemeinsamen Bundesausschuss.
+
+Upadacitinib wird in der großen Phase-III-Studie SELECT-SLE mit rund 1000 Patientinnen geprüft, der primäre Abschluss ist für Dezember 2026 geplant. Litifilimab, ein Antikörper gegen BDCA2 auf plasmazytoiden dendritischen Zellen, läuft in den Phase-III-Studien TOPAZ-1 und TOPAZ-2. Für Dapirolizumab steht die zweite Phase-III-Studie PHOENYCS FLY aus, für Deucravacitinib die detaillierten Daten.
+
+Aus Phase 2, ausdrücklich vorläufig und noch nicht peer-reviewt: Der orale TLR7- und TLR8-Hemmer Afimetoran erreichte auf dem ACR-Kongress 2026 in allen Dosen ein SRI-4-Ansprechen von rund 64 bis 68 Prozent gegenüber 34 Prozent unter Placebo, allerdings ohne Korrektur für multiples Testen. Und CAR-T-Zell-Therapien gegen CD19 werden weiter in frühen Studien geprüft. Dazu gibt es eine eigene Folge.
+
+Merksätze
+
+Zum Schluss die Merksätze.
+
+Erstens: Hydroxychloroquin für alle, Zieldosis 5 Milligramm pro Kilogramm, mit Augenkontrollen.
+
+Zweitens: Prednisolon auf höchstens 5 Milligramm senken, nach ACR innerhalb von 6 Monaten, und wenn möglich absetzen.
+
+Drittens: Reicht das nicht, früh eskalieren. Belimumab und Anifrolumab stehen in der S3-Leitlinie gleichberechtigt neben Azathioprin, Methotrexat und Mycophenolat.
+
+Viertens: Obinutuzumab ist bei der Lupusnephritis zugelassen, für den SLE gibt es eine positive CHMP-Empfehlung, gestützt auf ALLEGORY.
+
+Fünftens: Beim thrombotischen Antiphospholipid-Syndrom Vitamin-K-Antagonisten statt DOAKs.
+
+Alle Quellen mit Links finden Sie in den Shownotes. Dieser Podcast ist eine KI-gestützte Zusammenfassung zur Fortbildung und ersetzt weder Fachinformation noch Leitlinie im Original. Das nächste Update zu diesem Thema kommt im ersten Quartal 2027. Am Dienstag geht es um die Psoriasis-Arthritis. Gute Fahrt und einen guten Tag in der Praxis.
